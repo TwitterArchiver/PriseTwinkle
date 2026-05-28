@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-28T16:42:15",
+  "last_updated": "2026-05-28T16:42:28",
   "html": {
     "https://web.archive.org/web/20260518102821if_/https://twitter.com/PriseTwinkle/status/2056320984375066779": {
       "status": "done",
@@ -1420,7 +1420,7 @@
       "last_updated": "2026-05-28T16:31:00"
     },
     "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260519131738_twitter_com_PriseTwinkle_status_2056725972737458600.json",
         "20260520225644_twitter_com_PriseTwinkle_status_2057234097097920926.json",
@@ -1431,7 +1431,7 @@
         "20260525141616_twitter_com_PriseTwinkle_status_2058915053919666212.json",
         "20260525143310_twitter_com_PriseTwinkle_status_2058919305803366688.json"
       ],
-      "last_updated": "2026-05-28T16:31:01",
+      "last_updated": "2026-05-28T16:42:28",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260525143310if_/https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
       "miss_count": 1
     },
