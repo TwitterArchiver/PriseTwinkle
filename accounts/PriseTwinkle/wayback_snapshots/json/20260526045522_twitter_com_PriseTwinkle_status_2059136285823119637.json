@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059136282371166208"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2059136285823119637",
+    "created_at": "2026-05-26T04:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059136285823119637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rX5kUI4gPU",
+          "end": 189,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2059136285823119637/photo/1",
+          "media_key": "3_2059136282371166208",
+          "start": 166,
+          "url": "https://t.co/rX5kUI4gPU"
+        },
+        {
+          "display_url": "x.com/hatachi0525/st…",
+          "end": 213,
+          "expanded_url": "https://twitter.com/hatachi0525/status/2058940268406243608",
+          "start": 190,
+          "url": "https://t.co/5Jnmsvf0GJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059136285823119637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有些人注意到了我X上的关注很少。这主要是我关注的只是对我来说重要的人。\n我认为按重要度排名：\n1：RainAntares （Rain_Antar1121在我10几粉时第一格关注我超1,000粉的mtf，也算我第一个通过x聊天的人\n2：Unk （RainEngine_2024）和我年龄差不多但比较诡异的年龄党，X到现在聊天最多的, 后面的湖北双子星也不知道哪个神人取的\n3：晴日向（RainBulid_2024）：也许是喜欢她的内容，我先关注的她，然后她回关的\n4：唐毓文（NomtfYuwen）：跨圈一流神人，刚开始劝我不od，但是后面直接骂了。我回关他就是因为他有一流的事迹\n5：雪球小可爱（XueQiuXka）：看其他人都关注了所以我也关注了，好像可有可无\n6：\n我尽量在努力交新朋友吧，我感觉我线上交友也有点社恐🥲"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058940268406243608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些人注意到了我X上的关注很少。这主要是我关注的只是对我来说重要的人。\n我认为按重要度排名：\n1：RainAntares （Rain_Antar1121在我10几粉时第一格关注我超1,000粉的mtf，也算我第一个通过x聊天的人\n2：Unk （RainEngine_2024）和我年龄差不多但比较诡异的年龄党，X到现在聊天最多的, https://t.co/rX5kUI4gPU https://t.co/5Jnmsvf0GJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2019,
+        "media_key": "3_2059136282371166208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOFif7aEAA2xKg.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059136282371166208"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2059136285823119637",
+        "created_at": "2026-05-26T04:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059136285823119637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rX5kUI4gPU",
+              "end": 189,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2059136285823119637/photo/1",
+              "media_key": "3_2059136282371166208",
+              "start": 166,
+              "url": "https://t.co/rX5kUI4gPU"
+            },
+            {
+              "display_url": "x.com/hatachi0525/st…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/hatachi0525/status/2058940268406243608",
+              "start": 190,
+              "url": "https://t.co/5Jnmsvf0GJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059136285823119637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有些人注意到了我X上的关注很少。这主要是我关注的只是对我来说重要的人。\n我认为按重要度排名：\n1：RainAntares （Rain_Antar1121在我10几粉时第一格关注我超1,000粉的mtf，也算我第一个通过x聊天的人\n2：Unk （RainEngine_2024）和我年龄差不多但比较诡异的年龄党，X到现在聊天最多的, 后面的湖北双子星也不知道哪个神人取的\n3：晴日向（RainBulid_2024）：也许是喜欢她的内容，我先关注的她，然后她回关的\n4：唐毓文（NomtfYuwen）：跨圈一流神人，刚开始劝我不od，但是后面直接骂了。我回关他就是因为他有一流的事迹\n5：雪球小可爱（XueQiuXka）：看其他人都关注了所以我也关注了，好像可有可无\n6：\n我尽量在努力交新朋友吧，我感觉我线上交友也有点社恐🥲"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058940268406243608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人注意到了我X上的关注很少。这主要是我关注的只是对我来说重要的人。\n我认为按重要度排名：\n1：RainAntares （Rain_Antar1121在我10几粉时第一格关注我超1,000粉的mtf，也算我第一个通过x聊天的人\n2：Unk （RainEngine_2024）和我年龄差不多但比较诡异的年龄党，X到现在聊天最多的, https://t.co/rX5kUI4gPU https://t.co/5Jnmsvf0GJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108658732295028737",
+        "conversation_id": "2058888919887065231",
+        "created_at": "2026-05-25T15:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058940268406243608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058940268406243608",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888919887065231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 但你的關注才五個，也是高手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？跨圈最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常- ❓❓❓\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 150,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 128,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 6,
+          "like_count": 1959,
+          "listed_count": 5,
+          "media_count": 99,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私 因為自主fo我會看文章內容",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2058296685672182227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057181420041510912/OOZ-jWJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 62,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 203
+        },
+        "username": "hatachi0525",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2059213989826236861",
+    "created_at": "2026-05-26T10:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059213989826236861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048003423384010752",
+          "start": 3,
+          "username": "TeamRain_2024"
+        },
+        {
+          "end": 32,
+          "id": "1928705633135767600",
+          "start": 19,
+          "username": "PriseTwinkle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059213989826236861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059137184289218584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamRain_2024: @PriseTwinkle 你不关注我❓❓❓😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2059213989826236861",
+        "created_at": "2026-05-26T10:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059213989826236861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048003423384010752",
+              "start": 3,
+              "username": "TeamRain_2024"
+            },
+            {
+              "end": 32,
+              "id": "1928705633135767600",
+              "start": 19,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059213989826236861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059137184289218584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamRain_2024: @PriseTwinkle 你不关注我❓❓❓😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048003423384010752",
+        "conversation_id": "2059136285823119637",
+        "created_at": "2026-05-26T04:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059137184289218584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059137184289218584",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059136285823119637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 你不关注我❓❓❓😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？跨圈最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常- ❓❓❓\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 150,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 128,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 8,
+          "like_count": 1965,
+          "listed_count": 5,
+          "media_count": 99,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T11:39:20.000Z",
+        "description": "13初中生 | MTF含糖中🍥 | 无证HRT：2026/4/7 | 年龄党 | 炸柜：4.7  | 2026 继续深柜ing | 割手手❌ | 磕药药❌ | 科技果粉 | 会一点编程技术 | 喜欢的我的话点个关注吧~ 求求啦🥺 | http://t.co/9OCv2uup63\n“我发誓我不会再失去你了，我的生命中需要你”",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 139,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 117,
+                "url": "http://t.co/9OCv2uup63"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "X.com/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://X.com/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/mCuwA6J9Yk"
+              }
+            ]
+          }
+        },
+        "id": "2048003423384010752",
+        "location": "湖北省潜江市",
+        "name": "芸光酱~ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048019765109653997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057099438477488128/bCxtNBwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 21,
+          "like_count": 587,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/mCuwA6J9Yk",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

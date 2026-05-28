@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043561804648116224"
+      ],
+      "media_source_tweet_id": [
+        "2043561811698651364"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2056453946944942418",
+    "created_at": "2026-05-18T19:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056453946944942418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928705633135767600",
+          "start": 3,
+          "username": "PriseTwinkle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CVzTUh0kE8",
+          "end": 50,
+          "expanded_url": "https://x.com/Coxe_Pica/status/2043561811698651364/photo/1",
+          "media_key": "3_2043561804648116224",
+          "start": 27,
+          "url": "https://t.co/CVzTUh0kE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056453946944942418",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043561811698651364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PriseTwinkle: 我似乎也成功了😋 https://t.co/CVzTUh0kE8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2043561804648116224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwwolKbcAAFekJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043561804648116224"
+          ],
+          "media_source_tweet_id": [
+            "2043561811698651364"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2056453946944942418",
+        "created_at": "2026-05-18T19:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056453946944942418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928705633135767600",
+              "start": 3,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVzTUh0kE8",
+              "end": 50,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2043561811698651364/photo/1",
+              "media_key": "3_2043561804648116224",
+              "start": 27,
+              "url": "https://t.co/CVzTUh0kE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056453946944942418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043561811698651364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PriseTwinkle: 我似乎也成功了😋 https://t.co/CVzTUh0kE8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043561804648116224"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2043561811698651364",
+        "created_at": "2026-04-13T05:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043561811698651364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVzTUh0kE8",
+              "end": 32,
+              "expanded_url": "https://x.com/Coxe_Pica/status/2043561811698651364/photo/1",
+              "media_key": "3_2043561804648116224",
+              "start": 9,
+              "url": "https://t.co/CVzTUh0kE8"
+            },
+            {
+              "display_url": "x.com/KfirC10SRC/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/KfirC10SRC/status/2040645961094230359",
+              "start": 33,
+              "url": "https://t.co/pFP6jwDNkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043561811698651364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2234,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040645961094230359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我似乎也成功了😋 https://t.co/CVzTUh0kE8 https://t.co/pFP6jwDNkU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-自残🔪 不Od💊 \n关注芸光谢谢喵~（目标1000fo QWQ）\n@TeamRain_2024 | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 161,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 138,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055807718066364836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 4,
+          "like_count": 1786,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

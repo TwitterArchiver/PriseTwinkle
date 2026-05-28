@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059129916642430976"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059129926209642604",
+    "created_at": "2026-05-26T04:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059129926209642604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ppuWlaRNVm",
+          "end": 53,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2059129926209642604/photo/1",
+          "media_key": "3_2059129916642430976",
+          "start": 30,
+          "url": "https://t.co/ppuWlaRNVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059129926209642604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又删除了一批帖子，因为我怕我的账号受到X-Rules封禁 https://t.co/ppuWlaRNVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2059129916642430976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN_v9vaEAAPwky.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059129916642430976"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059129926209642604",
+        "created_at": "2026-05-26T04:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059129926209642604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppuWlaRNVm",
+              "end": 53,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2059129926209642604/photo/1",
+              "media_key": "3_2059129916642430976",
+              "start": 30,
+              "url": "https://t.co/ppuWlaRNVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059129926209642604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又删除了一批帖子，因为我怕我的账号受到X-Rules封禁 https://t.co/ppuWlaRNVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/bsBTyPiZBH"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 6,
+          "like_count": 1977,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/bsBTyPiZBH",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057696383457746944",
+        "3_2057696392030875648"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2057696400222335226",
+    "created_at": "2026-05-22T05:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057696400222335226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F1KeznhjSH",
+          "end": 32,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2057696400222335226/photo/1",
+          "media_key": "3_2057696383457746944",
+          "start": 9,
+          "url": "https://t.co/F1KeznhjSH"
+        },
+        {
+          "display_url": "pic.x.com/F1KeznhjSH",
+          "end": 32,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2057696400222335226/photo/1",
+          "media_key": "3_2057696392030875648",
+          "start": 9,
+          "url": "https://t.co/F1KeznhjSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057696400222335226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“做真实的自己” https://t.co/F1KeznhjSH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2057696383457746944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5n9Wea4AAlXSw.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1245,
+        "media_key": "3_2057696392030875648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5n92aacAA5ohB.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057696383457746944",
+            "3_2057696392030875648"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2057696400222335226",
+        "created_at": "2026-05-22T05:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057696400222335226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1KeznhjSH",
+              "end": 32,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2057696400222335226/photo/1",
+              "media_key": "3_2057696383457746944",
+              "start": 9,
+              "url": "https://t.co/F1KeznhjSH"
+            },
+            {
+              "display_url": "pic.x.com/F1KeznhjSH",
+              "end": 32,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2057696400222335226/photo/1",
+              "media_key": "3_2057696392030875648",
+              "start": 9,
+              "url": "https://t.co/F1KeznhjSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057696400222335226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“做真实的自己” https://t.co/F1KeznhjSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？跨圈最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-磕药药割手手💊🔪\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 154,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 132,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 7,
+          "like_count": 1862,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

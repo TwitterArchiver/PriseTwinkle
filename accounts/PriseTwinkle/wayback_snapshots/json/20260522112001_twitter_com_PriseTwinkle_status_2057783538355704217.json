@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057781105760329728"
+      ],
+      "media_source_tweet_id": [
+        "2057781116531351992"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "conversation_id": "2057783538355704217",
+    "created_at": "2026-05-22T11:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057783538355704217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048003423384010752",
+          "start": 3,
+          "username": "TeamRain_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wwYh2korY8",
+          "end": 46,
+          "expanded_url": "https://x.com/TeamRain_2024/status/2057781116531351992/photo/1",
+          "media_key": "3_2057781105760329728",
+          "start": 23,
+          "url": "https://t.co/wwYh2korY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057783538355704217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057781116531351992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamRain_2024: 密码的 https://t.co/wwYh2korY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2057781105760329728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI61A1pa4AAMgJi.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057781105760329728"
+          ],
+          "media_source_tweet_id": [
+            "2057781116531351992"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2057783538355704217",
+        "created_at": "2026-05-22T11:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057783538355704217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048003423384010752",
+              "start": 3,
+              "username": "TeamRain_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwYh2korY8",
+              "end": 46,
+              "expanded_url": "https://x.com/TeamRain_2024/status/2057781116531351992/photo/1",
+              "media_key": "3_2057781105760329728",
+              "start": 23,
+              "url": "https://t.co/wwYh2korY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057783538355704217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057781116531351992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamRain_2024: 密码的 https://t.co/wwYh2korY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057781105760329728"
+          ]
+        },
+        "author_id": "2048003423384010752",
+        "conversation_id": "2057781116531351992",
+        "created_at": "2026-05-22T11:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057781116531351992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwYh2korY8",
+              "end": 27,
+              "expanded_url": "https://x.com/TeamRain_2024/status/2057781116531351992/photo/1",
+              "media_key": "3_2057781105760329728",
+              "start": 4,
+              "url": "https://t.co/wwYh2korY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057781116531351992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "密码的 https://t.co/wwYh2korY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？跨圈最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-磕药药割手手💊🔪\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 154,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 132,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 7,
+          "like_count": 1867,
+          "listed_count": 5,
+          "media_count": 94,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T11:39:20.000Z",
+        "description": "13初中生 | MTF含糖中🍥 | 无证HRT：2026/4/7 | 年龄党 | 炸柜：4.7  | 2026 继续深柜ing | 割手手❌ | 磕药药❌ | 科技果粉 | 会一点编程技术 | 喜欢的我的话点个关注吧~ 求求啦🥺 | http://t.co/9OCv2uup63\n“我发誓我不会再失去你了，我的生命中需要你”",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 139,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 117,
+                "url": "http://t.co/9OCv2uup63"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "X.com/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://X.com/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/mCuwA6J9Yk"
+              }
+            ]
+          }
+        },
+        "id": "2048003423384010752",
+        "location": "湖北省潜江市",
+        "name": "芸光酱~ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048019765109653997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057099438477488128/bCxtNBwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 19,
+          "like_count": 556,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/mCuwA6J9Yk",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2057227939943739487",
+    "created_at": "2026-05-20T22:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057227939943739487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997075109451022336",
+          "start": 3,
+          "username": "ji_mi9703"
+        },
+        {
+          "end": 28,
+          "id": "1928705633135767600",
+          "start": 15,
+          "username": "PriseTwinkle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057227939943739487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057205333320475003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_mi9703: @PriseTwinkle 毒品/藥物（我的主觀體驗）\n排行榜\n1.右美沙芬⭐️⭐️⭐️⭐️⭐️夯爆了\n效果：致幻 飛升 欣快\n2.氨酚羟考同/硫酸嗎啡⭐️⭐️⭐️⭐️\n效果：身體融化 欣快\n3.普瑞巴林⭐️⭐️⭐️⭐️\n效果：飄飄 開心 樂觀\n注…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2057227939943739487",
+        "created_at": "2026-05-20T22:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057227939943739487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997075109451022336",
+              "start": 3,
+              "username": "ji_mi9703"
+            },
+            {
+              "end": 28,
+              "id": "1928705633135767600",
+              "start": 15,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057227939943739487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057205333320475003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_mi9703: @PriseTwinkle 毒品/藥物（我的主觀體驗）\n排行榜\n1.右美沙芬⭐️⭐️⭐️⭐️⭐️夯爆了\n效果：致幻 飛升 欣快\n2.氨酚羟考同/硫酸嗎啡⭐️⭐️⭐️⭐️\n效果：身體融化 欣快\n3.普瑞巴林⭐️⭐️⭐️⭐️\n效果：飄飄 開心 樂觀\n注…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997075109451022336",
+        "conversation_id": "2056225258630431207",
+        "created_at": "2026-05-20T21:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057205333320475003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057205333320475003",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056225258630431207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 毒品/藥物（我的主觀體驗）\n排行榜\n1.右美沙芬⭐️⭐️⭐️⭐️⭐️夯爆了\n效果：致幻 飛升 欣快\n2.氨酚羟考同/硫酸嗎啡⭐️⭐️⭐️⭐️\n效果：身體融化 欣快\n3.普瑞巴林⭐️⭐️⭐️⭐️\n效果：飄飄 開心 樂觀\n注：買不到可以買美洛加巴林\n4.THC⭐️⭐️⭐️\n效果：放鬆 安眠\n5.阿普唑倫⭐️⭐️\n效果：犯睏\n6.替來他明💩\n效果：辣雞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-磕药药割手手💊🔪\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 154,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 132,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 6,
+          "like_count": 1820,
+          "listed_count": 5,
+          "media_count": 90,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-05T22:46:36.000Z",
+        "description": "",
+        "id": "1997075109451022336",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057200698547458048/ZJIsfclw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ji_mi9703",
+        "verified": false
+      }
+    ]
+  }
+}
