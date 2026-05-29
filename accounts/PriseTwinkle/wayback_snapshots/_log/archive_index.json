@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-28T16:42:28",
+  "last_updated": "2026-05-29T06:21:53",
   "html": {
     "https://web.archive.org/web/20260518102821if_/https://twitter.com/PriseTwinkle/status/2056320984375066779": {
       "status": "done",
@@ -605,6 +605,18 @@
     "https://web.archive.org/web/20260526222217if_/https://twitter.com/PriseTwinkle/status/2059399753050558515": {
       "status": "done",
       "last_updated": "2026-05-28T16:30:14"
+    },
+    "https://web.archive.org/web/20260528045813if_/https://twitter.com/PriseTwinkle/status/2059861782228083165": {
+      "status": "done",
+      "last_updated": "2026-05-29T06:21:52"
+    },
+    "https://web.archive.org/web/20260528122639if_/https://twitter.com/PriseTwinkle/status/2059974630413324687": {
+      "status": "done",
+      "last_updated": "2026-05-29T06:21:52"
+    },
+    "https://web.archive.org/web/20260527211825if_/https://twitter.com/PriseTwinkle/status/2059746069630869719": {
+      "status": "done",
+      "last_updated": "2026-05-29T06:21:52"
     }
   },
   "images": {
@@ -963,9 +975,10 @@
     "https://pbs.twimg.com/media/HJI2Ylva0AAiXU6.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260525043103_twitter_com_PriseTwinkle_status_2058767778665140634.json"
+        "20260525043103_twitter_com_PriseTwinkle_status_2058767778665140634.json",
+        "20260528122639_twitter_com_PriseTwinkle_status_2059974630413324687.json"
       ],
-      "last_updated": "2026-05-28T16:30:16"
+      "last_updated": "2026-05-29T06:21:53"
     },
     "https://pbs.twimg.com/media/HJKbBrabUAAVM3B.jpg": {
       "status": "done",
@@ -1169,6 +1182,13 @@
         "20260527121009_twitter_com_PriseTwinkle_status_2059608093999411426.json"
       ],
       "last_updated": "2026-05-28T16:30:18"
+    },
+    "https://pbs.twimg.com/media/HJWOtMRaoAAoU2W.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260527211825_twitter_com_PriseTwinkle_status_2059746069630869719.json"
+      ],
+      "last_updated": "2026-05-29T06:21:53"
     }
   },
   "videos": {},
@@ -1699,7 +1719,10 @@
         "20260527054128_twitter_com_PriseTwinkle_status_2059510276530291032.json",
         "20260527095720_twitter_com_PriseTwinkle_status_2059574666755182789.json",
         "20260527103938_twitter_com_PriseTwinkle_status_2059585311022424412.json",
-        "20260527121009_twitter_com_PriseTwinkle_status_2059608093999411426.json"
+        "20260527121009_twitter_com_PriseTwinkle_status_2059608093999411426.json",
+        "20260527211825_twitter_com_PriseTwinkle_status_2059746069630869719.json",
+        "20260528045813_twitter_com_PriseTwinkle_status_2059861782228083165.json",
+        "20260528122639_twitter_com_PriseTwinkle_status_2059974630413324687.json"
       ],
       "last_updated": "2026-05-28T16:30:59"
     },
@@ -1710,7 +1733,8 @@
         "20260526185647_twitter_com_PriseTwinkle_status_2059348036208492568.json",
         "20260526220151_twitter_com_PriseTwinkle_status_2059394610657710464.json",
         "20260526222455_twitter_com_PriseTwinkle_status_2059400415104602458.json",
-        "20260527095720_twitter_com_PriseTwinkle_status_2059574666755182789.json"
+        "20260527095720_twitter_com_PriseTwinkle_status_2059574666755182789.json",
+        "20260527211825_twitter_com_PriseTwinkle_status_2059746069630869719.json"
       ],
       "last_updated": "2026-05-28T16:30:59"
     },
@@ -3659,6 +3683,44 @@
         ]
       },
       "last_updated": "2026-05-28T16:30:59"
+    },
+    "20260527211825_twitter_com_PriseTwinkle_status_2059746069630869719.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HJWOtMRaoAAoU2W.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2059287173812412416/vAimrkvi_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2059324193427374080/g39fOwMg_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-05-29T06:21:53"
+    },
+    "20260528045813_twitter_com_PriseTwinkle_status_2059861782228083165.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2059287173812412416/vAimrkvi_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-05-29T06:21:53"
+    },
+    "20260528122639_twitter_com_PriseTwinkle_status_2059974630413324687.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HJI2Ylva0AAiXU6.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2059287173812412416/vAimrkvi_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-05-29T06:21:53"
     }
   }
 }
