@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-31T06:32:26",
+  "last_updated": "2026-05-31T06:47:04",
   "html": {
     "https://web.archive.org/web/20260518102821if_/https://twitter.com/PriseTwinkle/status/2056320984375066779": {
       "status": "done",
@@ -1813,11 +1813,14 @@
       "last_updated": "2026-05-28T16:30:59"
     },
     "https://pbs.twimg.com/profile_images/2055095677026521088/GprF4_5D_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260529035209_twitter_com_PriseTwinkle_status_2060207542077378613.json",
         "20260529035444_twitter_com_PriseTwinkle_status_2060208192941150358.json"
-      ]
+      ],
+      "last_updated": "2026-05-31T06:47:04",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260529035444if_/https://pbs.twimg.com/profile_images/2055095677026521088/GprF4_5D_normal.jpg",
+      "miss_count": 1
     }
   },
   "media": {
@@ -3808,7 +3811,7 @@
       "last_updated": "2026-05-31T06:25:07"
     },
     "20260529035209_twitter_com_PriseTwinkle_status_2060207542077378613.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJcpbF-aQAA4DMD.jpg"
@@ -3819,10 +3822,10 @@
           "https://pbs.twimg.com/profile_images/2055095677026521088/GprF4_5D_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:32:26"
+      "last_updated": "2026-05-31T06:47:04"
     },
     "20260529035444_twitter_com_PriseTwinkle_status_2060208192941150358.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJcpbF-aQAA4DMD.jpg"
@@ -3833,7 +3836,7 @@
           "https://pbs.twimg.com/profile_images/2055095677026521088/GprF4_5D_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-31T06:32:26"
+      "last_updated": "2026-05-31T06:47:04"
     },
     "20260529041020_twitter_com_PriseTwinkle_status_2060212119157793049.json": {
       "status": "done",
