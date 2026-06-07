@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062758557679005696",
+        "3_2062758572937928704"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062758582299525513",
+    "created_at": "2026-06-05T04:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062758582299525513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G7DXVTr1bv",
+          "end": 31,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2062758582299525513/photo/1",
+          "media_key": "3_2062758557679005696",
+          "start": 8,
+          "url": "https://t.co/G7DXVTr1bv"
+        },
+        {
+          "display_url": "pic.x.com/G7DXVTr1bv",
+          "end": 31,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2062758582299525513/photo/1",
+          "media_key": "3_2062758572937928704",
+          "start": 8,
+          "url": "https://t.co/G7DXVTr1bv"
+        },
+        {
+          "display_url": "x.com/NL8526/status/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/NL8526/status/2062697060743475580",
+          "start": 32,
+          "url": "https://t.co/Ir6CDTMCcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062758582299525513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062697060743475580",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能定制一下？ https://t.co/G7DXVTr1bv https://t.co/Ir6CDTMCcU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2062758557679005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBj-q_asAA4T9S.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1335,
+        "media_key": "3_2062758572937928704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBj_j1bYAAon2_.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2062696065149882368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKArJILa0AALOKt.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062758557679005696",
+            "3_2062758572937928704"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062758582299525513",
+        "created_at": "2026-06-05T04:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062758582299525513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7DXVTr1bv",
+              "end": 31,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2062758582299525513/photo/1",
+              "media_key": "3_2062758557679005696",
+              "start": 8,
+              "url": "https://t.co/G7DXVTr1bv"
+            },
+            {
+              "display_url": "pic.x.com/G7DXVTr1bv",
+              "end": 31,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2062758582299525513/photo/1",
+              "media_key": "3_2062758572937928704",
+              "start": 8,
+              "url": "https://t.co/G7DXVTr1bv"
+            },
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/NL8526/status/2062697060743475580",
+              "start": 32,
+              "url": "https://t.co/Ir6CDTMCcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062758582299525513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062697060743475580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能定制一下？ https://t.co/G7DXVTr1bv https://t.co/Ir6CDTMCcU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062696065149882368"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2062697060743475580",
+        "created_at": "2026-06-05T00:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:40:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062696067695829409",
+          "2062697060743475580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JPIez2RDf8",
+              "end": 37,
+              "expanded_url": "https://x.com/NL8526/status/2062697060743475580/photo/1",
+              "media_key": "3_2062696065149882368",
+              "start": 14,
+              "url": "https://t.co/JPIez2RDf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062697060743475580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1639,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "严肃购入茶π（unk联名款 https://t.co/JPIez2RDf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n@AuroraLight_01 | http://t.co/yw95e9H",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "AuroraLight_01"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062136144272535553/eKkmZPxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 8,
+          "like_count": 2094,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 793
+        },
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游mai＆arc/MC 😴大一休学/家长不管/不线下/小透明 🩷同类蓝v互fo🉑忘回请私 b我必回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2059489442478645274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 709,
+          "like_count": 14504,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

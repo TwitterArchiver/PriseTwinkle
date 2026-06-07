@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2059286679060713757",
+    "created_at": "2026-06-01T12:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061421463119478869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061421463119478869",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059286679060713757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 谁给我挂上🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059286675793276928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQOUjFacAAbjRc.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2059286679060713757",
+        "created_at": "2026-06-01T12:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061421463119478869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061421463119478869",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059286679060713757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 谁给我挂上🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059286675793276928"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2059286679060713757",
+        "created_at": "2026-05-26T14:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059286679060713757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxjPUBXWtv",
+              "end": 58,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2059286679060713757/photo/1",
+              "media_key": "3_2059286675793276928",
+              "start": 35,
+              "url": "https://t.co/SxjPUBXWtv"
+            },
+            {
+              "display_url": "x.com/NMD_China/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/NMD_China/status/2059264058621308955",
+              "start": 59,
+              "url": "https://t.co/pZz4wzKhKD"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2059286679060713757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5573,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264058621308955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是台蛙空白子（達爾文老爺爺親傳名號）\n我允許你們把unk搬到牆內了 https://t.co/SxjPUBXWtv https://t.co/pZz4wzKhKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 159,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝓟𝓻𝓲𝓼𝓮𝓣𝔀𝓲𝓷𝓴𝓵𝓮 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060941311604391936/ICzbTja5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 7,
+          "like_count": 2083,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 353,
+          "like_count": 12481,
+          "listed_count": 3,
+          "media_count": 858,
+          "tweet_count": 4082
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}
