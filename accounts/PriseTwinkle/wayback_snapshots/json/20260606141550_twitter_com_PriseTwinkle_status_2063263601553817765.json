@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2063257244138103241",
+    "created_at": "2026-06-06T14:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063263601553817765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063263601553817765",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063257244138103241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 好事！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2063257244138103241",
+        "created_at": "2026-06-06T14:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063263601553817765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063263601553817765",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063257244138103241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 好事！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2063257244138103241",
+        "created_at": "2026-06-06T13:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063257244138103241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063257244138103241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "为啥精卫10点就得熄灯了😭😭😭，我不想这么早睡啊✋😭🤚，之前我在家都是下午睡觉的🫠，sb精卫强行扭转窝的生物钟✋😭🤚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n| https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 144,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 121,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062136144272535553/eKkmZPxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 7,
+          "like_count": 2113,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "😭暂时被父母强制关精卫了。。。😭\n永远怀念@UnkXyn|MtX?|Hrt🍥01.28.2026，被关精卫断糖中😭|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊|对象@Lvmaosamaovo|159cm50kg|INFP-T，重度社恐|初二牲，休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unksleep",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unksleep",
+                "start": 0,
+                "url": "https://t.co/dEDjytJyHc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 699,
+          "like_count": 910,
+          "listed_count": 14,
+          "media_count": 26,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/dEDjytJyHc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

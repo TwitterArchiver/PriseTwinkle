@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1928705633135767600",
+    "conversation_id": "2063402102358229203",
+    "created_at": "2026-06-07T00:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063424561711087779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063424561711087779",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063402102358229203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 我想去还进不了呢🥹👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2063402102358229203",
+        "created_at": "2026-06-07T00:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063424561711087779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063424561711087779",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063402102358229203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 我想去还进不了呢🥹👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2063402102358229203",
+        "created_at": "2026-06-06T23:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063402102358229203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063402102358229203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "如果能再给我一次机会🥺，我宁愿在家好好HRT✋😭🤚我不od了😭😭😭，在因为od被送精卫断糖的滋味真的不好受啊😭，我不要反雄啊😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n| https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 144,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 121,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062136144272535553/eKkmZPxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 7,
+          "like_count": 2117,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "😭暂时被父母强制关精卫了。。。😭\n永远怀念@UnkXyn|MtX?|Hrt🍥01.28.2026，被关精卫断糖中😭|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊|对象@Lvmaosamaovo|159cm50kg|INFP-T，重度社恐|初二牲，休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unksleep",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unksleep",
+                "start": 0,
+                "url": "https://t.co/dEDjytJyHc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 709,
+          "like_count": 952,
+          "listed_count": 14,
+          "media_count": 26,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/dEDjytJyHc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

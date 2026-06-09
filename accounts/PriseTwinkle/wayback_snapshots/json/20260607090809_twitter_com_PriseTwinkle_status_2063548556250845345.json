@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063548552836685824"
+      ]
+    },
+    "author_id": "1928705633135767600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063548556250845345",
+    "created_at": "2026-06-07T09:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063548556250845345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928705633135767600",
+          "start": 3,
+          "username": "PriseTwinkle"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinitetweet.me/love-calculato…",
+          "end": 55,
+          "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/3AsHOEYUYa"
+        },
+        {
+          "display_url": "pic.x.com/F1sCf5mRwc",
+          "end": 79,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2063548556250845345/photo/1",
+          "media_key": "3_2063548552836685824",
+          "start": 56,
+          "url": "https://t.co/F1sCf5mRwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063548556250845345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @PriseTwinkle 的爱兼容性为 74%\n\n➡️ https://t.co/3AsHOEYUYa https://t.co/F1sCf5mRwc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2063548552836685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMyecSaIAAWNUK.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063548552836685824"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063548556250845345",
+        "created_at": "2026-06-07T09:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063548556250845345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928705633135767600",
+              "start": 3,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinitetweet.me/love-calculato…",
+              "end": 55,
+              "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062070396631842816/w0UUn4q6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/3AsHOEYUYa"
+            },
+            {
+              "display_url": "pic.x.com/F1sCf5mRwc",
+              "end": 79,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2063548556250845345/photo/1",
+              "media_key": "3_2063548552836685824",
+              "start": 56,
+              "url": "https://t.co/F1sCf5mRwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063548556250845345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @PriseTwinkle 的爱兼容性为 74%\n\n➡️ https://t.co/3AsHOEYUYa https://t.co/F1sCf5mRwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n| https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 144,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 121,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062136144272535553/eKkmZPxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 8,
+          "like_count": 2124,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}
