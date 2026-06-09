@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-09T16:31:54",
+  "last_updated": "2026-06-09T16:32:10",
   "html": {
     "https://web.archive.org/web/20260518102821if_/https://twitter.com/PriseTwinkle/status/2056320984375066779": {
       "status": "done",
@@ -2680,16 +2680,18 @@
       "last_updated": "2026-06-07T06:52:02"
     },
     "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260606060627_twitter_com_PriseTwinkle_status_2063140443341127939.json"
-      ]
+      ],
+      "last_updated": "2026-06-09T16:32:09"
     },
     "https://pbs.twimg.com/profile_images/2061667705368010752/YlBRRs9d_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260606085936_twitter_com_PriseTwinkle_status_2063184015885287476.json"
-      ]
+      ],
+      "last_updated": "2026-06-09T16:32:09"
     }
   },
   "media": {
@@ -5440,7 +5442,7 @@
       "last_updated": "2026-06-07T06:52:02"
     },
     "20260606060627_twitter_com_PriseTwinkle_status_2063140443341127939.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -5449,10 +5451,10 @@
           "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-09T16:31:54"
+      "last_updated": "2026-06-09T16:32:09"
     },
     "20260606085936_twitter_com_PriseTwinkle_status_2063184015885287476.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJzpP1PbgAAfBLI.jpg"
@@ -5463,7 +5465,7 @@
           "https://pbs.twimg.com/profile_images/2061667705368010752/YlBRRs9d_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-09T16:31:54"
+      "last_updated": "2026-06-09T16:32:09"
     },
     "20260606104104_twitter_com_PriseTwinkle_status_2063209551718125691.json": {
       "status": "done",
