@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066836055836262400",
+        "3_2066836084516855808"
+      ]
+    },
+    "author_id": "359348018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066836124819980434",
+    "created_at": "2026-06-16T10:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:44:40.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066834336176066859",
+      "2066836124819980434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ujkFoMiFyo",
+          "end": 43,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2066836124819980434/photo/1",
+          "media_key": "3_2066836055836262400",
+          "start": 20,
+          "url": "https://t.co/ujkFoMiFyo"
+        },
+        {
+          "display_url": "pic.x.com/ujkFoMiFyo",
+          "end": 43,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2066836124819980434/photo/1",
+          "media_key": "3_2066836084516855808",
+          "start": 20,
+          "url": "https://t.co/ujkFoMiFyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066836124819980434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "后来那层玻璃成了我们最遥不可及的距离😢 https://t.co/ujkFoMiFyo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2066836055836262400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7gcTUXAAAJG2g.jpg",
+        "width": 1240
+      },
+      {
+        "height": 702,
+        "media_key": "3_2066836084516855808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7gd-KWIAA48N6.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066834316244721664",
+            "3_2066834328043323393"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066834336176066859",
+        "created_at": "2026-06-16T10:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:44:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066834336176066859",
+          "2066836124819980434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "Mtf"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "cd"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "yg_xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2gpogHxhe",
+              "end": 59,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2066834336176066859/photo/1",
+              "media_key": "3_2066834316244721664",
+              "start": 36,
+              "url": "https://t.co/T2gpogHxhe"
+            },
+            {
+              "display_url": "pic.x.com/T2gpogHxhe",
+              "end": 59,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2066834336176066859/photo/1",
+              "media_key": "3_2066834328043323393",
+              "start": 36,
+              "url": "https://t.co/T2gpogHxhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066834336176066859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "后来那层玻璃成了我们最遥不可及的距离\n#Mtf #cd #yg_xyn https://t.co/T2gpogHxhe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066836055836262400",
+            "3_2066836084516855808"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066836124819980434",
+        "created_at": "2026-06-16T10:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:44:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066834336176066859",
+          "2066836124819980434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujkFoMiFyo",
+              "end": 43,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2066836124819980434/photo/1",
+              "media_key": "3_2066836055836262400",
+              "start": 20,
+              "url": "https://t.co/ujkFoMiFyo"
+            },
+            {
+              "display_url": "pic.x.com/ujkFoMiFyo",
+              "end": 43,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2066836124819980434/photo/1",
+              "media_key": "3_2066836084516855808",
+              "start": 20,
+              "url": "https://t.co/ujkFoMiFyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066836124819980434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后来那层玻璃成了我们最遥不可及的距离😢 https://t.co/ujkFoMiFyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥🏳️‍⚧️2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Yg_Xyn | https://t.co/TW6xokyJMk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 118,
+                "username": "Yg_Xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 151,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 128,
+                "url": "https://t.co/TW6xokyJMk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeIcly"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064199266839773184/YLZ_MNet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8551,
+          "following_count": 1,
+          "like_count": 126,
+          "listed_count": 160,
+          "media_count": 57,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/THnXAeIcly",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

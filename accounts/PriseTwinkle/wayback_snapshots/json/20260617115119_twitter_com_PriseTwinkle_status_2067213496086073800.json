@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2067207958447177971",
+    "created_at": "2026-06-17T11:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067213496086073800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        },
+        {
+          "end": 21,
+          "id": "1928705633135767600",
+          "start": 14,
+          "username": "Yg_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067213496086073800",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067211228615709132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 @Yg_Xyn 😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2067207958447177971",
+        "created_at": "2026-06-17T11:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067213496086073800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 21,
+              "id": "1928705633135767600",
+              "start": 14,
+              "username": "Yg_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213496086073800",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067211228615709132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 @Yg_Xyn 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2067207958447177971",
+        "created_at": "2026-06-17T11:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067211228615709132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067211228615709132",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067207958447177971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yg_Xyn 揉揉…真的很討厭好吧，之前一個整我被我直接用手潑蹲坑裡的水，那之後再也沒人敢了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥🏳️‍⚧️2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Yg_Xyn | https://t.co/TW6xokyJMk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 118,
+                "username": "Yg_Xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 151,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 128,
+                "url": "https://t.co/TW6xokyJMk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeIcly"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064199266839773184/YLZ_MNet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8551,
+          "following_count": 1,
+          "like_count": 131,
+          "listed_count": 160,
+          "media_count": 56,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/THnXAeIcly",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 1179,
+          "like_count": 18730,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 4089
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@PriseTwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065592411808788480/lhmgfvK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 8,
+          "like_count": 2207,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

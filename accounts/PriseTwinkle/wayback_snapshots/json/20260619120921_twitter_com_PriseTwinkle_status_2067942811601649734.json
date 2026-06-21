@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067942808258859008"
+      ]
+    },
+    "author_id": "359348018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2067942811601649734",
+    "created_at": "2026-06-19T12:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067942811601649734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "19976004",
+          "start": 16,
+          "username": "Mediapart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kWjG3eRAJm",
+          "end": 88,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2067942811601649734/photo/1",
+          "media_key": "3_2067942808258859008",
+          "start": 65,
+          "url": "https://t.co/kWjG3eRAJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067942811601649734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @Mediapart\n\n➡️ infinitetweet[dot]me/secret-crush https://t.co/kWjG3eRAJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2067942808258859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLPBxYX0AAk_w3.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067942808258859008"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067942811601649734",
+        "created_at": "2026-06-19T12:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067942811601649734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "19976004",
+              "start": 16,
+              "username": "Mediapart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWjG3eRAJm",
+              "end": 88,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2067942811601649734/photo/1",
+              "media_key": "3_2067942808258859008",
+              "start": 65,
+              "url": "https://t.co/kWjG3eRAJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067942811601649734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @Mediapart\n\n➡️ infinitetweet[dot]me/secret-crush https://t.co/kWjG3eRAJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥🏳️‍⚧️2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Yg_Xyn | https://t.co/TW6xokyJMk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 118,
+                "username": "Yg_Xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 151,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 128,
+                "url": "https://t.co/TW6xokyJMk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeIcly"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064199266839773184/YLZ_MNet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8551,
+          "following_count": 1,
+          "like_count": 136,
+          "listed_count": 160,
+          "media_count": 57,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/THnXAeIcly",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-03T15:07:42.000Z",
+        "description": "Journal d'information numérique, indépendant et participatif. Seuls nos lecteurs peuvent nous acheter ! Suivez aussi @MediapartBlogs.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 117,
+                "username": "MediapartBlogs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mediapart.fr",
+                "end": 23,
+                "expanded_url": "https://www.mediapart.fr",
+                "start": 0,
+                "url": "https://t.co/7E7kNNLjua"
+              }
+            ]
+          }
+        },
+        "id": "19976004",
+        "location": "Paris",
+        "name": "Mediapart",
+        "pinned_tweet_id": "1872310512970776703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465278352076546051/N_QlMsti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838999,
+          "following_count": 1891,
+          "like_count": 4505,
+          "listed_count": 11734,
+          "media_count": 14648,
+          "tweet_count": 167182
+        },
+        "url": "https://t.co/7E7kNNLjua",
+        "username": "Mediapart",
+        "verified": true
+      }
+    ]
+  }
+}
