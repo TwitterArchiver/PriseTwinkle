@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069067629227319296"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2069067648353353906",
+    "created_at": "2026-06-22T14:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069067648353353906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gPPt8hUCrW",
+          "end": 33,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2069067648353353906/photo/1",
+          "media_key": "3_2069067629227319296",
+          "start": 10,
+          "url": "https://t.co/gPPt8hUCrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069067648353353906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚X宕机了几分钟 https://t.co/gPPt8hUCrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2069067629227319296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbOC-BaoAArq1C.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069067629227319296"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2069067648353353906",
+        "created_at": "2026-06-22T14:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069067648353353906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPPt8hUCrW",
+              "end": 33,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2069067648353353906/photo/1",
+              "media_key": "3_2069067629227319296",
+              "start": 10,
+              "url": "https://t.co/gPPt8hUCrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069067648353353906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚X宕机了几分钟 https://t.co/gPPt8hUCrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n| https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 125,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 102,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeIcly"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064199266839773184/YLZ_MNet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8554,
+          "following_count": 1,
+          "like_count": 148,
+          "listed_count": 160,
+          "media_count": 58,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/THnXAeIcly",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}
