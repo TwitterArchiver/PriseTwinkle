@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2072735881350586816",
+    "created_at": "2026-07-02T23:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T00:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072829607808729366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072829607808729366",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072735881350586816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072735878347464704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPWTK4boAA4q1z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2072735881350586816",
+        "created_at": "2026-07-02T23:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072829607808729366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072829607808729366",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072735881350586816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072735878347464704"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2072735881350586816",
+        "created_at": "2026-07-02T17:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072735881350586816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynQy8SlEvE",
+              "end": 29,
+              "expanded_url": "https://x.com/TixItem4527/status/2072735881350586816/photo/1",
+              "media_key": "3_2072735878347464704",
+              "start": 6,
+              "url": "https://t.co/ynQy8SlEvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072735881350586816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 191,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补发另一张 https://t.co/ynQy8SlEvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "yg_xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 152,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 129,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeHEw0"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8569,
+          "following_count": 8,
+          "like_count": 184,
+          "listed_count": 159,
+          "media_count": 60,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/THnXAeHEw0",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "乔木镇农场，南北战争停火线，马尔洛斯地区，卡莫纳",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1023,
+          "like_count": 2417,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}
