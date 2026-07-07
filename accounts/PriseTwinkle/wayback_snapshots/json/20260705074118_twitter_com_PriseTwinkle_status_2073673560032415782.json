@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073673540440866816"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2073648200943325496",
+    "created_at": "2026-07-05T07:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073673560032415782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9LXehlTJLJ",
+          "end": 45,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2073673560032415782/photo/1",
+          "media_key": "3_2073673540440866816",
+          "start": 22,
+          "url": "https://t.co/9LXehlTJLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073673560032415782",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073648200943325496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 截图不了🤔 https://t.co/9LXehlTJLJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2073673540440866816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcrGSYawAAg2Qn.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073648198330314752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcUDLqbcAAUGHW.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073673540440866816"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2073648200943325496",
+        "created_at": "2026-07-05T07:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073673560032415782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LXehlTJLJ",
+              "end": 45,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2073673560032415782/photo/1",
+              "media_key": "3_2073673540440866816",
+              "start": 22,
+              "url": "https://t.co/9LXehlTJLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073673560032415782",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073648200943325496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 截图不了🤔 https://t.co/9LXehlTJLJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073648198330314752"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2073648200943325496",
+        "created_at": "2026-07-05T06:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073648200943325496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkDu6SlSQM",
+              "end": 47,
+              "expanded_url": "https://x.com/RainEngine2024/status/2073648200943325496/photo/1",
+              "media_key": "3_2073648198330314752",
+              "start": 24,
+              "url": "https://t.co/fkDu6SlSQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073648200943325496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 596,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才发现原来oplus的指纹锁屏界面能截屏？？ https://t.co/fkDu6SlSQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "yg_xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 152,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 129,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeHEw0"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8571,
+          "following_count": 9,
+          "like_count": 196,
+          "listed_count": 159,
+          "media_count": 61,
+          "tweet_count": 1726
+        },
+        "url": "https://t.co/THnXAeHEw0",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/最喜欢的姐姐🥰 @AotraWong  /PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10654,
+          "following_count": 985,
+          "like_count": 97367,
+          "listed_count": 25,
+          "media_count": 2024,
+          "tweet_count": 13671
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}
