@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073985739931697152",
+        "3_2073985754095898624"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2073985764522852588",
+    "created_at": "2026-07-06T04:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073985764522852588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w4HUCEtYMk",
+          "end": 44,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2073985764522852588/photo/1",
+          "media_key": "3_2073985739931697152",
+          "start": 21,
+          "url": "https://t.co/w4HUCEtYMk"
+        },
+        {
+          "display_url": "pic.x.com/w4HUCEtYMk",
+          "end": 44,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2073985764522852588/photo/1",
+          "media_key": "3_2073985754095898624",
+          "start": 21,
+          "url": "https://t.co/w4HUCEtYMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073985764522852588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难道他们就是用这个工具冻结我的账号的？🙄 https://t.co/w4HUCEtYMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2729,
+        "media_key": "3_2073985739931697152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhHCsHawAAj1O2.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2729,
+        "media_key": "3_2073985754095898624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhHDg4bUAAqkA8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073985739931697152",
+            "3_2073985754095898624"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2073985764522852588",
+        "created_at": "2026-07-06T04:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073985764522852588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4HUCEtYMk",
+              "end": 44,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2073985764522852588/photo/1",
+              "media_key": "3_2073985739931697152",
+              "start": 21,
+              "url": "https://t.co/w4HUCEtYMk"
+            },
+            {
+              "display_url": "pic.x.com/w4HUCEtYMk",
+              "end": 44,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2073985764522852588/photo/1",
+              "media_key": "3_2073985754095898624",
+              "start": 21,
+              "url": "https://t.co/w4HUCEtYMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073985764522852588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道他们就是用这个工具冻结我的账号的？🙄 https://t.co/w4HUCEtYMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "yg_xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 152,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 129,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeHEw0"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8572,
+          "following_count": 9,
+          "like_count": 204,
+          "listed_count": 159,
+          "media_count": 63,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/THnXAeHEw0",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}
