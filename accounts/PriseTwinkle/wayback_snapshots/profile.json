@@ -1,28 +1,29 @@
 {
-  "name": "芸光酱𝕻𝖗𝖎𝖘𝖊𝕿𝖜𝖎𝖓𝖐𝖑𝖊 🍥🏳️‍⚧️",
+  "name": "PriseTwinkle 芸光",
   "username": "@PriseTwinkle",
-  "bio": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的?  |无证小药娘 | 🍥2026.4.7 |从小想做个女孩子 | 已炸柜 | 继续深柜ing |喜欢折腾电子设备 |分享Hrt日常 | 💊&🔪 |喜欢我的话点个关注吧🥺 求求你了~ @TeamRain_2024 | NGL.Link/prisetwinkle",
+  "bio": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | http://NGL.Link/prisetwinkle",
   "location": "湖北潜江",
-  "link": "t.me/PriseTwinkle",
+  "link": "http://t.me/PriseTwinkle",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2041475934608380289",
   "bio_entities": {
     "mentions": [
       {
-        "end": 135,
-        "start": 121,
-        "username": "TeamRain_2024"
+        "end": 126,
+        "start": 119,
+        "username": "yg_xyn"
       }
     ],
     "urls": [
       {
         "display_url": "NGL.Link/prisetwinkle",
-        "end": 161,
+        "end": 152,
         "expanded_url": "http://NGL.Link/prisetwinkle",
-        "start": 138,
+        "start": 129,
         "url": "https://t.co/yw95e9HjhX"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg"
 }
