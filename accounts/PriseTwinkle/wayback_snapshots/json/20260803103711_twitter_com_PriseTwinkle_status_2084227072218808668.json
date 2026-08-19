@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2083875921011052557",
+    "created_at": "2026-08-03T10:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084227072218808668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067645817108803584",
+          "start": 0,
+          "username": "ysandwlnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084227072218808668",
+    "in_reply_to_user_id": "2067645817108803584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084211758135386301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysandwlnn ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2083875921011052557",
+        "created_at": "2026-08-03T10:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084227072218808668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067645817108803584",
+              "start": 0,
+              "username": "ysandwlnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084227072218808668",
+        "in_reply_to_user_id": "2067645817108803584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084211758135386301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysandwlnn ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067645817108803584",
+        "conversation_id": "2083875921011052557",
+        "created_at": "2026-08-03T09:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084211758135386301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "359348018",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084211758135386301",
+        "in_reply_to_user_id": "359348018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083875921011052557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 这是什么动漫吗？看到好多这种画面了找不到出处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "yg_xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 152,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 129,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8581,
+          "following_count": 11,
+          "like_count": 255,
+          "listed_count": 160,
+          "media_count": 69,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T16:31:24.000Z",
+        "description": "",
+        "id": "2067645817108803584",
+        "name": "ys and wl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067657213892542464/8Drni0Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 32,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "ysandwlnn",
+        "verified": false
+      }
+    ]
+  }
+}
