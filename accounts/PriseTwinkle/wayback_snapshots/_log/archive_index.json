@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-19T03:11:20",
+  "last_updated": "2026-08-19T03:11:37",
   "html": {
     "https://web.archive.org/web/20260518102821if_/https://twitter.com/PriseTwinkle/status/2056320984375066779": {
       "status": "done",
@@ -2575,10 +2575,11 @@
       "last_updated": "2026-07-25T15:01:55"
     },
     "https://video.twimg.com/amplify_video/2083875825582231552/vid/avc1/1920x1080/XhQo-91BJUrDjDbq.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260802112150_twitter_com_PriseTwinkle_status_2083875921011052557.json"
-      ]
+      ],
+      "last_updated": "2026-08-19T03:11:37"
     }
   },
   "avatars": {
@@ -7462,7 +7463,7 @@
       "last_updated": "2026-08-03T16:29:21"
     },
     "20260802112150_twitter_com_PriseTwinkle_status_2083875921011052557.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -7472,7 +7473,7 @@
           "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:11:19"
+      "last_updated": "2026-08-19T03:11:37"
     },
     "20260803103711_twitter_com_PriseTwinkle_status_2084227072218808668.json": {
       "status": "unknown",
@@ -7484,7 +7485,7 @@
           "https://pbs.twimg.com/profile_images/2067657213892542464/8Drni0Sf_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:11:19"
+      "last_updated": "2026-08-19T03:11:35"
     },
     "20260810212413_twitter_com_PriseTwinkle_status_2086926618224926812.json": {
       "status": "done",
@@ -7510,7 +7511,7 @@
           "https://pbs.twimg.com/profile_images/2071033750344060928/5PLEuKIY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:11:19"
+      "last_updated": "2026-08-19T03:11:35"
     },
     "20260812094428_twitter_com_PriseTwinkle_status_2087475297147134168.json": {
       "status": "unknown",
@@ -7523,7 +7524,7 @@
           "https://pbs.twimg.com/profile_images/2087468775033708544/7nhClAoX_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-19T03:11:19"
+      "last_updated": "2026-08-19T03:11:35"
     },
     "20260812112839_twitter_com_PriseTwinkle_status_2087501513354879104.json": {
       "status": "done",
