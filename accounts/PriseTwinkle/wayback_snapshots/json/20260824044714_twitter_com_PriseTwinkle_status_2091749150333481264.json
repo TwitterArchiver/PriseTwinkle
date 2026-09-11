@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2091477229888995776",
+    "created_at": "2026-08-24T04:47:14.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T05:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091749150333481264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1909289954305622018",
+          "start": 0,
+          "username": "JiuJiuphigros"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091749150333481264",
+    "in_reply_to_user_id": "1909289954305622018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091477229888995776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiuJiuphigros 别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2091477229888995776",
+        "created_at": "2026-08-24T04:47:14.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091749150333481264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909289954305622018",
+              "start": 0,
+              "username": "JiuJiuphigros"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091749150333481264",
+        "in_reply_to_user_id": "1909289954305622018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091477229888995776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiuJiuphigros 别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909289954305622018",
+        "conversation_id": "2091477229888995776",
+        "created_at": "2026-08-23T10:46:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091477229888995776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091477229888995776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1326,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求亚盐链接✋😭🤚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2091749150333481264",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 73,
+          "like_count": 354,
+          "listed_count": 159,
+          "media_count": 82,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T16:59:44.000Z",
+        "description": "欢迎来到我的主页❤️\n13年MtF🍥🏳️‍⚧️ 同类可互fo\n政治立场➡️🇹🇼（KMT国民党）\nhttps://t.co/id17sCOM4z 欢迎骚扰🤓👆",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mtfjiu",
+                "end": 71,
+                "expanded_url": "https://ngl.link/mtfjiu",
+                "start": 48,
+                "url": "https://t.co/id17sCOM4z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTFJiu",
+                "end": 23,
+                "expanded_url": "http://t.me/MTFJiu",
+                "start": 0,
+                "url": "https://t.co/piZ8lEY1bh"
+              }
+            ]
+          }
+        },
+        "id": "1909289954305622018",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091662017233101167",
+        "name": "MTFJiu🍥🏳️‍⚧️🇹󠅴‍🇼󠅷‍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909289954305622018/1785381440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084806762499375105/8kMQQqj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 286,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/piZ8lEY1bh",
+        "username": "JiuJiuphigros",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

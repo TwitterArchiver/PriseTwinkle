@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2092050590612505059",
+    "created_at": "2026-08-26T01:36:04.000Z",
+    "display_text_range": [
+      12,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T02:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092425817716638061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "967668314095853570",
+          "start": 0,
+          "username": "_Malinorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092425817716638061",
+    "in_reply_to_user_id": "967668314095853570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092420334259712370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Malinorne 我在闲鱼让别人远程刷机的🫠Color os 对Google服务的支持不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2092420314919735296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnFMLeaEAAzLNx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2092050590612505059",
+        "created_at": "2026-08-26T01:36:04.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092425817716638061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "967668314095853570",
+              "start": 0,
+              "username": "_Malinorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092425817716638061",
+        "in_reply_to_user_id": "967668314095853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092420334259712370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Malinorne 我在闲鱼让别人远程刷机的🫠Color os 对Google服务的支持不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092420314919735296"
+          ]
+        },
+        "author_id": "967668314095853570",
+        "conversation_id": "2092050590612505059",
+        "created_at": "2026-08-26T01:14:17.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092420334259712370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "359348018",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Lt08cxHzh",
+              "end": 51,
+              "expanded_url": "https://x.com/_Malinorne/status/2092420334259712370/photo/1",
+              "media_key": "3_2092420314919735296",
+              "start": 28,
+              "url": "https://t.co/8Lt08cxHzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092420334259712370",
+        "in_reply_to_user_id": "359348018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092420314919735296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092050590612505059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 怎么一个个都用上氧16了😭 https://t.co/8Lt08cxHzh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2092425817716638061",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 74,
+          "like_count": 370,
+          "listed_count": 160,
+          "media_count": 85,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-25T07:51:19.000Z",
+        "description": "MtF || 泛性恋 || INFP-A || 无证含糖🍥 HRT：7. 10. 2026 || 精神状况良好（？）|| 180cm 65kg || 应该是只兔子 ||  xp是正太和美少年 || 重度网瘾少女 || 饥荒 原神 Minecraft 希望有人一起玩 || 欢迎同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_malinorne",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_malinorne",
+                "start": 0,
+                "url": "https://t.co/0dCn3Z86Vs"
+              }
+            ]
+          }
+        },
+        "id": "967668314095853570",
+        "is_identity_verified": false,
+        "location": "Tasarinan",
+        "most_recent_tweet_id": "2092423921702477973",
+        "name": "一凣 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/967668314095853570/1786087693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083748323606032384/KvWnJQhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 291,
+          "like_count": 12027,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/0dCn3Z86Vs",
+        "username": "_Malinorne",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090284431915487232"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2090284531182076163",
+    "created_at": "2026-08-20T03:47:22.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T04:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090284531182076163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRFzUOGcZY",
+          "end": 83,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2090284531182076163/video/1",
+          "media_key": "13_2090284431915487232",
+          "start": 60,
+          "url": "https://t.co/xRFzUOGcZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090284531182076163",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2090284431915487232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "You are a man😱\nYou are a man🥵\nYou are a man🤤\nYou are a man😡 https://t.co/xRFzUOGcZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22466,
+        "height": 1920,
+        "media_key": "13_2090284431915487232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090284431915487232/img/6b65BXwj9pszr3zf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090284431915487232/vid/avc1/720x1280/ZGgAniztj8DnevA9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090284431915487232/vid/avc1/480x852/dBKzowvEAbtfX2LM.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090284431915487232/vid/avc1/1080x1920/yrZnVllcrGh4Pvp7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090284431915487232/pl/kGy7b3-5950b1Lxn.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090284431915487232/vid/avc1/320x568/hcumLRfXFTCLXraf.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090284431915487232"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2090284531182076163",
+        "created_at": "2026-08-20T03:47:22.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090284531182076163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRFzUOGcZY",
+              "end": 83,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090284531182076163/video/1",
+              "media_key": "13_2090284431915487232",
+              "start": 60,
+              "url": "https://t.co/xRFzUOGcZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090284531182076163",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090284431915487232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "You are a man😱\nYou are a man🥵\nYou are a man🤤\nYou are a man😡 https://t.co/xRFzUOGcZY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2090284531182076163",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8628,
+          "following_count": 66,
+          "like_count": 325,
+          "listed_count": 160,
+          "media_count": 74,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

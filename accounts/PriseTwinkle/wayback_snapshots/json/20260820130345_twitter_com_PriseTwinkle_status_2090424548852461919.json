@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2090423725824868374",
+    "created_at": "2026-08-20T13:03:45.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T14:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090424548852461919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087466297722560512",
+          "start": 0,
+          "username": "Mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090424548852461919",
+    "in_reply_to_user_id": "2087466297722560512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090423725824868374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mwdxj29477 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2090423725824868374",
+        "created_at": "2026-08-20T13:03:45.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090424548852461919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087466297722560512",
+              "start": 0,
+              "username": "Mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090424548852461919",
+        "in_reply_to_user_id": "2087466297722560512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090423725824868374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mwdxj29477 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087466297722560512",
+        "conversation_id": "2090423725824868374",
+        "created_at": "2026-08-20T13:00:29.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090423725824868374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090423725824868374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现阿拉丁上可以买盐🤤🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2090424548852461919",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8629,
+          "following_count": 68,
+          "like_count": 328,
+          "listed_count": 160,
+          "media_count": 74,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-08-12T09:10:31.000Z",
+        "description": "|MtX?🏳️‍⚧️| Hrt01.28.2026|初二牲|\n|年龄党+家长反对党|已出扭转\n|已炸柜|oder💊|生产日期:11.13.2011\n|161cm61kg|有点笨笨的🥺\n|INFP-T | 重度社恐|希望不登校\n|渴望在家里躺尸|同类互fo喵~\n|@PriseTwinkle|http://t.co/pSlJYI21uo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 131,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/unkxyn2",
+                "end": 167,
+                "expanded_url": "http://NGL.Link/unkxyn2",
+                "start": 145,
+                "url": "http://t.co/pSlJYI21uo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/unkxyn",
+                "end": 23,
+                "expanded_url": "http://telegram.me/unkxyn",
+                "start": 0,
+                "url": "https://t.co/WTwGTpr9Em"
+              }
+            ]
+          }
+        },
+        "id": "2087466297722560512",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2090423725824868374",
+        "name": "✟𝑼𝒏𝒌✟🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087466297722560512/1786544998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088511359164272640/_GSM6QJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 123,
+          "like_count": 123,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/WTwGTpr9Em",
+        "username": "Mwdxj29477",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2090653474354798697",
+    "created_at": "2026-08-21T05:29:30.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090672623336481019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090672623336481019",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090672034972152040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw 🤫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 89,
+        "media_key": "3_2090672028483502080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOPIg-awAANbN_.jpg",
+        "width": 673
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2090653474354798697",
+        "created_at": "2026-08-21T05:29:30.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090672623336481019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090672623336481019",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090672034972152040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw 🤫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090672028483502080"
+          ]
+        },
+        "author_id": "1977200375766958082",
+        "conversation_id": "2090653474354798697",
+        "created_at": "2026-08-21T05:27:10.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090672034972152040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "359348018",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUo8NXcGKK",
+              "end": 37,
+              "expanded_url": "https://x.com/yvanyvandecw/status/2090672034972152040/photo/1",
+              "media_key": "3_2090672028483502080",
+              "start": 14,
+              "url": "https://t.co/CUo8NXcGKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090672034972152040",
+        "in_reply_to_user_id": "359348018",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090672028483502080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090671847700619414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle https://t.co/CUo8NXcGKK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2090672623336481019",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8640,
+          "following_count": 73,
+          "like_count": 337,
+          "listed_count": 160,
+          "media_count": 77,
+          "tweet_count": 1768
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚15岁天残xyn 初二 155cm/44.5kg 💊&🔪 同类互fo喵😋灌注沐媛谢谢喵🥺坐标柳州😇 无人在意の小透明 🍥2026.5.13 大部分时候脑子正常🧐超级社恐😩 发现被在乎的小细节会开心一整天🥺 生产日期：11.06.15 保质期：即将过期 扩列请加Q3776451683丨tg@muyvan_666",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvanyvandecw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvanyvandecw",
+                "start": 0,
+                "url": "https://t.co/zWQwc9nfXd"
+              }
+            ]
+          }
+        },
+        "id": "1977200375766958082",
+        "is_identity_verified": false,
+        "location": "被窝",
+        "most_recent_tweet_id": "2090672034972152040",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2090653474354798697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977200375766958082/1781425509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 509,
+          "like_count": 1731,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/zWQwc9nfXd",
+        "username": "yvanyvandecw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093265182390988800"
+      ]
+    },
+    "author_id": "359348018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093265195858809314",
+    "created_at": "2026-08-28T09:11:28.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T10:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093265195858809314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hulFzUmnu4",
+          "end": 105,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2093265195858809314/photo/1",
+          "media_key": "3_2093265182390988800",
+          "start": 82,
+          "url": "https://t.co/hulFzUmnu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093265195858809314",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093265182390988800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "X自动化系统封禁了数个错误的真实账号，这个行为使中国用户对自己的X账户是否能公开保留感到恐慌，并且只有小部分解除了错误的封禁，事实表明，X自动化系统仍需继续优化。 https://t.co/hulFzUmnu4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2814,
+        "media_key": "3_2093265182390988800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzFl8EbsAAVHRm.jpg",
+        "width": 1831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093265182390988800"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093265195858809314",
+        "created_at": "2026-08-28T09:11:28.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093265195858809314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hulFzUmnu4",
+              "end": 105,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2093265195858809314/photo/1",
+              "media_key": "3_2093265182390988800",
+              "start": 82,
+              "url": "https://t.co/hulFzUmnu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093265195858809314",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093265182390988800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X自动化系统封禁了数个错误的真实账号，这个行为使中国用户对自己的X账户是否能公开保留感到恐慌，并且只有小部分解除了错误的封禁，事实表明，X自动化系统仍需继续优化。 https://t.co/hulFzUmnu4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2093265195858809314",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8690,
+          "following_count": 75,
+          "like_count": 391,
+          "listed_count": 160,
+          "media_count": 91,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

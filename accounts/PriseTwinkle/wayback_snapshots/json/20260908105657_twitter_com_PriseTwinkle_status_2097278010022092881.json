@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2097275232969273411",
+    "created_at": "2026-09-08T10:56:57.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097278010022092881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097278010022092881",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097275232969273411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao 小钱小钱😌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097275186756349952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsEq6bacAA7JJa.jpg",
+        "width": 1834
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097275200777928705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsEruqawAEyWDX.jpg",
+        "width": 1834
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097275211158790144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsEsVVaIAA-QKw.jpg",
+        "width": 1834
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097275223209025537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsEtCOaIAEMgQV.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2097275232969273411",
+        "created_at": "2026-09-08T10:56:57.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097278010022092881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097278010022092881",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097275232969273411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 小钱小钱😌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097275186756349952",
+            "3_2097275200777928705",
+            "3_2097275211158790144",
+            "3_2097275223209025537"
+          ]
+        },
+        "author_id": "616537873",
+        "conversation_id": "2097275232969273411",
+        "created_at": "2026-09-08T10:45:55.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:44:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097274909965595030",
+          "2097275232969273411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TuHjss9Mv",
+              "end": 57,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2097275232969273411/photo/1",
+              "media_key": "3_2097275186756349952",
+              "start": 34,
+              "url": "https://t.co/6TuHjss9Mv"
+            },
+            {
+              "display_url": "pic.x.com/6TuHjss9Mv",
+              "end": 57,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2097275232969273411/photo/1",
+              "media_key": "3_2097275200777928705",
+              "start": 34,
+              "url": "https://t.co/6TuHjss9Mv"
+            },
+            {
+              "display_url": "pic.x.com/6TuHjss9Mv",
+              "end": 57,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2097275232969273411/photo/1",
+              "media_key": "3_2097275211158790144",
+              "start": 34,
+              "url": "https://t.co/6TuHjss9Mv"
+            },
+            {
+              "display_url": "pic.x.com/6TuHjss9Mv",
+              "end": 57,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2097275232969273411/photo/1",
+              "media_key": "3_2097275223209025537",
+              "start": 34,
+              "url": "https://t.co/6TuHjss9Mv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097275232969273411",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097275186756349952"
+          },
+          {
+            "media_key": "3_2097275200777928705"
+          },
+          {
+            "media_key": "3_2097275211158790144"
+          },
+          {
+            "media_key": "3_2097275223209025537"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都一周了还没发货怎么办啊\n\n380对我来说是真的非常非常多了😭😭😭 https://t.co/6TuHjss9Mv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@MtxUnk| http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "MtxUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2097278010022092881",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8812,
+          "following_count": 94,
+          "like_count": 518,
+          "listed_count": 160,
+          "media_count": 109,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo卡进后室寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)\n🤍@a0brjkkmiao🤭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2097276611175252447",
+        "name": "是貓貓喵🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 557,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

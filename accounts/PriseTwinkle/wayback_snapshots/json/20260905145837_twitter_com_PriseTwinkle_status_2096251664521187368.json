@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2096182773941731485",
+    "created_at": "2026-09-05T14:58:37.000Z",
+    "display_text_range": [
+      20,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096251664521187368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056547558462480384",
+          "start": 0,
+          "username": "Eliserette"
+        },
+        {
+          "end": 19,
+          "id": "2092971438521077760",
+          "start": 12,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096251664521187368",
+    "in_reply_to_user_id": "2056547558462480384",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096214826272035323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eliserette @zza2ku True"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2096182773941731485",
+        "created_at": "2026-09-05T14:58:37.000Z",
+        "display_text_range": [
+          20,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096251664521187368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056547558462480384",
+              "start": 0,
+              "username": "Eliserette"
+            },
+            {
+              "end": 19,
+              "id": "2092971438521077760",
+              "start": 12,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096251664521187368",
+        "in_reply_to_user_id": "2056547558462480384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096214826272035323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eliserette @zza2ku True"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2096182773941731485",
+        "created_at": "2026-09-05T12:32:15.000Z",
+        "display_text_range": [
+          8,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096214826272035323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096214826272035323",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096182773941731485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 不理解，这种行为既愚蠢又可笑。路人遇到最多只会鄙夷地瞅上两眼，达到的效果就是给跨性别招黑，事与愿违"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@MtxUnk | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 117,
+                "username": "MtxUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 149,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 127,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2096251664521187368",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8789,
+          "following_count": 89,
+          "like_count": 474,
+          "listed_count": 160,
+          "media_count": 103,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "反跨跨女，顺性别药娘\n右翼保守派前现代人，旧约圣经精神践行者\n吃药是为了惩罚自己\n“地狱的烈焰不熄，因至高的审判从未止息”",
+        "id": "2056547558462480384",
+        "is_identity_verified": false,
+        "location": "炼狱山",
+        "most_recent_tweet_id": "2096247461941842120",
+        "name": "𝓐𝓵𝓲𝓮𝓼",
+        "pinned_tweet_id": "2094063202460197093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1787512800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091616501157826560/wMTCN7UW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 33,
+          "like_count": 174,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Eliserette",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "mtf，粉红\n混合性焦虑抑郁障碍",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096234835388043722",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 67,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

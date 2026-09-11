@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2090746261641236906",
+    "created_at": "2026-08-21T10:22:07.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090746261641236906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yvanyvandecw/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/yvanyvandecw/status/2090653474354798697",
+          "start": 18,
+          "url": "https://t.co/8qiwBAqRsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090746261641236906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090653474354798697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我比你金主聊的早，比你对象聊得早😒 https://t.co/8qiwBAqRsF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2090746261641236906",
+        "created_at": "2026-08-21T10:22:07.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090746261641236906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yvanyvandecw/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/yvanyvandecw/status/2090653474354798697",
+              "start": 18,
+              "url": "https://t.co/8qiwBAqRsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090746261641236906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090653474354798697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我比你金主聊的早，比你对象聊得早😒 https://t.co/8qiwBAqRsF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977200375766958082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2090653474354798697",
+        "created_at": "2026-08-21T04:13:25.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090653474354798697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PriseTwinkle/s…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/PriseTwinkle/status/2090469915702788225",
+              "start": 123,
+              "url": "https://t.co/4L4wpSDA74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090653474354798697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 802,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090469915702788225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是活到头了unk看见了你就爆，我总共就给4个朋友办过账户，其中只有一个人买来收藏，剩下三个买都没买😓，而且我哪神化紫砂紫餐了😅我给办账户的都是我老朋友了，他们情绪崩不崩溃我还不知道吗，而且我一分钱不收他们的🙄跟我才聊多久啥也不懂就出来爆😅😅😅 https://t.co/4L4wpSDA74"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2090746261641236906",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8650,
+          "following_count": 73,
+          "like_count": 339,
+          "listed_count": 160,
+          "media_count": 77,
+          "tweet_count": 1769
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "15岁天残xyn 初二 155cm/44.5kg 💊&🔪 同类互fo😋灌注沐媛谢谢喵🥺坐标柳州😇 无人在意の小透明 🍥2026.5.13 脑子正常🧐超级社恐😩 发现被在乎的小细节会开心一整天🥺 生产日期：11.06.15 保质期：快了   宝宝@yiyi2731\nQ3776451683丨tg@muyvan_666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "yiyi2731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvanyvandecw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvanyvandecw",
+                "start": 0,
+                "url": "https://t.co/zWQwc9nfXd"
+              }
+            ]
+          }
+        },
+        "id": "1977200375766958082",
+        "is_identity_verified": false,
+        "location": "被窝",
+        "most_recent_tweet_id": "2090706135674470455",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2090653474354798697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977200375766958082/1781425509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 516,
+          "like_count": 1737,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/zWQwc9nfXd",
+        "username": "yvanyvandecw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

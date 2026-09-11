@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2096163264400888120",
+    "created_at": "2026-09-05T23:43:21.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T00:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096383717287829565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Hoshika_Mahiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096383717287829565",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096163264400888120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshika_Mahiyo xmsl🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2096163264400888120",
+        "created_at": "2026-09-05T23:43:21.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096383717287829565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Hoshika_Mahiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096383717287829565",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096163264400888120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshika_Mahiyo xmsl🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781868776918790144",
+        "conversation_id": "2096163264400888120",
+        "created_at": "2026-09-05T09:07:21.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096163264400888120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096163264400888120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1325,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "难道...我要变成家长党了？\n我姐同意带我去看心理科了！！！\n大连七院\nWaiting...\n\n2026/10/05"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@MtxUnk | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 117,
+                "username": "MtxUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 149,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 127,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2096383717287829565",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791,
+          "following_count": 90,
+          "like_count": 481,
+          "listed_count": 160,
+          "media_count": 103,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "也可以叫我刘星瑶~\n同类互fo喵\n🏳️‍⚧️11/08/17 MtF 泛性恋 天残党 家长党\n🍥2026/08/02 无证含糖\n🏫高一\n❌无任何政治立场，不od不抽烟不喝酒不混社会不处对象\n👤MBTI合起来INSFTP 乐观 佛系 \n性格 非牛顿流体\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n6fqO"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "现居📍吉林四平    想移民去Canada🇨🇦",
+        "most_recent_tweet_id": "2096274037827916132",
+        "name": "Kazama_Nagi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2089940704751661097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1786784735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1543,
+          "like_count": 3201,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/evOh4n6fqO",
+        "username": "Hoshika_Mahiyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

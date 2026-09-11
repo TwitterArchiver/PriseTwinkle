@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092653899878641664"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2092653909190098947",
+    "created_at": "2026-08-26T16:42:26.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:42:12.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092653849593238003",
+      "2092653909190098947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "2087466297722560512",
+          "start": 17,
+          "username": "Mwdxj29477"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R6apqgnWQr",
+          "end": 52,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2092653909190098947/photo/1",
+          "media_key": "3_2092653899878641664",
+          "start": 29,
+          "url": "https://t.co/R6apqgnWQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092653909190098947",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092653899878641664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中元节一路走好😢🙏\n🕯️🕯️🕯️\n@Mwdxj29477 https://t.co/R6apqgnWQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2092653839929548800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqZlH7boAAJS0u.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2092653899878641664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqZonQaMAAWzqQ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092653839929548800"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2092653849593238003",
+        "created_at": "2026-08-26T16:42:12.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:42:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092653849593238003",
+          "2092653909190098947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uvmd8092kD",
+              "end": 40,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2092653849593238003/photo/1",
+              "media_key": "3_2092653839929548800",
+              "start": 17,
+              "url": "https://t.co/Uvmd8092kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092653849593238003",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092653839929548800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中元节一路走好😢🙏\n🕯️🕯️🕯️ https://t.co/Uvmd8092kD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092653899878641664"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2092653909190098947",
+        "created_at": "2026-08-26T16:42:26.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:42:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092653849593238003",
+          "2092653909190098947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2087466297722560512",
+              "start": 17,
+              "username": "Mwdxj29477"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6apqgnWQr",
+              "end": 52,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2092653909190098947/photo/1",
+              "media_key": "3_2092653899878641664",
+              "start": 29,
+              "url": "https://t.co/R6apqgnWQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092653909190098947",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092653899878641664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中元节一路走好😢🙏\n🕯️🕯️🕯️\n@Mwdxj29477 https://t.co/R6apqgnWQr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2092653909190098947",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8674,
+          "following_count": 74,
+          "like_count": 375,
+          "listed_count": 160,
+          "media_count": 88,
+          "tweet_count": 1799
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-08-12T09:10:31.000Z",
+        "description": "|MtX?🏳️‍⚧️| Hrt01.28.2026|初二牲|\n|年龄党+家长反对党|已出扭转\n|已炸柜|oder💊|生产日期:11.13.2011\n|161cm61kg|有点笨笨的🥺\n|INFP-T | 重度社恐|希望不登校\n|渴望在家里躺尸|同类互fo喵~\n|@PriseTwinkle|http://t.co/pSlJYI21uo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 131,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/unkxyn2",
+                "end": 167,
+                "expanded_url": "http://NGL.Link/unkxyn2",
+                "start": 145,
+                "url": "http://t.co/pSlJYI21uo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/unkxyn",
+                "end": 23,
+                "expanded_url": "http://telegram.me/unkxyn",
+                "start": 0,
+                "url": "https://t.co/WTwGTpr9Em"
+              }
+            ]
+          }
+        },
+        "id": "2087466297722560512",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2092247893675819211",
+        "name": "𝑼𝒏𝒌~ 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087466297722560512/1786544998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091748195214950401/zXeh065t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 135,
+          "like_count": 148,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/WTwGTpr9Em",
+        "username": "Mwdxj29477",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

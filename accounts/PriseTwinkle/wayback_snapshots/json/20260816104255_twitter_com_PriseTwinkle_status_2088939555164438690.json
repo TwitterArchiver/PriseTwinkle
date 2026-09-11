@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2088939139521814979",
+    "created_at": "2026-08-16T10:42:55.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088939555164438690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087466297722560512",
+          "start": 0,
+          "username": "Mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088939555164438690",
+    "in_reply_to_user_id": "2087466297722560512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088939139521814979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mwdxj29477 🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088939128666861568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1nEeGaMAACVn2.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2088939139521814979",
+        "created_at": "2026-08-16T10:42:55.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088939555164438690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087466297722560512",
+              "start": 0,
+              "username": "Mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088939555164438690",
+        "in_reply_to_user_id": "2087466297722560512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088939139521814979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mwdxj29477 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088939128666861568"
+          ]
+        },
+        "author_id": "2087466297722560512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088939139521814979",
+        "created_at": "2026-08-16T10:41:16.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088939139521814979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwkRiAs4Ow",
+              "end": 30,
+              "expanded_url": "https://x.com/Mwdxj29477/status/2088939139521814979/photo/1",
+              "media_key": "3_2088939128666861568",
+              "start": 7,
+              "url": "https://t.co/WwkRiAs4Ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088939139521814979",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088939128666861568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么掉了🤔 https://t.co/WwkRiAs4Ow"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 156,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 133,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2088939555164438690",
+        "name": "PriseTwinkle 芸光",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1782037978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8567,
+          "following_count": 44,
+          "like_count": 295,
+          "listed_count": 160,
+          "media_count": 69,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T09:10:31.000Z",
+        "description": "|MtX?🏳️‍⚧️| Hrt01.28.2026|初二牲|\n|年龄党+家长反对党|已出扭转\n|已炸柜|oder💊|生产日期:11.13.2011\n|161cm61kg|有点笨笨的🥺\n|INFP-T | 重度社恐|希望不登校\n|渴望在家里躺尸|同类互fo喵~\n|@UnkXyn|http://t.co/pSlJYI21uo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 131,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/unkxyn2",
+                "end": 161,
+                "expanded_url": "http://NGL.Link/unkxyn2",
+                "start": 139,
+                "url": "http://t.co/pSlJYI21uo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/unkxyn",
+                "end": 23,
+                "expanded_url": "http://telegram.me/unkxyn",
+                "start": 0,
+                "url": "https://t.co/WTwGTpr9Em"
+              }
+            ]
+          }
+        },
+        "id": "2087466297722560512",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2088939139521814979",
+        "name": "✟𝑼𝒏𝒌✟🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087466297722560512/1786544998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088511359164272640/_GSM6QJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 126,
+          "like_count": 97,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/WTwGTpr9Em",
+        "username": "Mwdxj29477",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

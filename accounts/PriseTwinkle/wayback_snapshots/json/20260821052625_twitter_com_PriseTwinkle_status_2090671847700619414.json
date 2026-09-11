@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090671837982441472"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2090653474354798697",
+    "created_at": "2026-08-21T05:26:25.000Z",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090671847700619414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pp9JBD7ESM",
+          "end": 37,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2090671847700619414/photo/1",
+          "media_key": "3_2090671837982441472",
+          "start": 14,
+          "url": "https://t.co/pp9JBD7ESM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090671847700619414",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090671837982441472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090653474354798697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw https://t.co/pp9JBD7ESM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2090671837982441472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOO9bTbQAAGNUc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090671837982441472"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2090653474354798697",
+        "created_at": "2026-08-21T05:26:25.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090671847700619414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pp9JBD7ESM",
+              "end": 37,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090671847700619414/photo/1",
+              "media_key": "3_2090671837982441472",
+              "start": 14,
+              "url": "https://t.co/pp9JBD7ESM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090671847700619414",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090671837982441472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090653474354798697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw https://t.co/pp9JBD7ESM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977200375766958082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2090653474354798697",
+        "created_at": "2026-08-21T04:13:25.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090653474354798697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PriseTwinkle/s…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/PriseTwinkle/status/2090469915702788225",
+              "start": 123,
+              "url": "https://t.co/4L4wpSDA74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090653474354798697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090469915702788225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是活到头了unk看见了你就爆，我总共就给4个朋友办过账户，其中只有一个人买来收藏，剩下三个买都没买😓，而且我哪神化紫砂紫餐了😅我给办账户的都是我老朋友了，他们情绪崩不崩溃我还不知道吗，而且我一分钱不收他们的🙄跟我才聊多久啥也不懂就出来爆😅😅😅 https://t.co/4L4wpSDA74"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2090671847700619414",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8640,
+          "following_count": 73,
+          "like_count": 336,
+          "listed_count": 160,
+          "media_count": 77,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚15岁天残xyn 初二 155cm/44.5kg 💊&🔪 同类互fo喵😋灌注沐媛谢谢喵🥺坐标柳州😇 无人在意の小透明 🍥2026.5.13 大部分时候脑子正常🧐超级社恐😩 发现被在乎的小细节会开心一整天🥺 生产日期：11.06.15 保质期：即将过期 扩列请加Q3776451683丨tg@muyvan_666",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yvanyvandecw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yvanyvandecw",
+                "start": 0,
+                "url": "https://t.co/zWQwc9nfXd"
+              }
+            ]
+          }
+        },
+        "id": "1977200375766958082",
+        "is_identity_verified": false,
+        "location": "被窝",
+        "most_recent_tweet_id": "2090671778003853374",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2090653474354798697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977200375766958082/1781425509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 509,
+          "like_count": 1731,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/zWQwc9nfXd",
+        "username": "yvanyvandecw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

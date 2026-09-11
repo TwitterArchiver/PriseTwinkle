@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090618027192815616",
+        "3_2090618097560666112"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2090618275407577553",
+    "created_at": "2026-08-21T01:53:33.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090618275407577553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K4zPWDlIvK",
+          "end": 53,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2090618275407577553/photo/1",
+          "media_key": "3_2090618027192815616",
+          "start": 30,
+          "url": "https://t.co/K4zPWDlIvK"
+        },
+        {
+          "display_url": "pic.x.com/K4zPWDlIvK",
+          "end": 53,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2090618275407577553/photo/1",
+          "media_key": "3_2090618097560666112",
+          "start": 30,
+          "url": "https://t.co/K4zPWDlIvK"
+        },
+        {
+          "display_url": "x.com/PriseTwinkle/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/PriseTwinkle/status/2090469915702788225",
+          "start": 54,
+          "url": "https://t.co/YEnA97YHI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090618275407577553",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090618027192815616"
+      },
+      {
+        "media_key": "3_2090618097560666112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090469915702788225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我🌿了，阿拉丁居然给我打电话，马上挂了，事情不会败露了吧😟 https://t.co/K4zPWDlIvK https://t.co/YEnA97YHI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2090618027192815616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNeBOfbEAAHn_m.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2090618097560666112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNeFUobQAAt-IK.jpg",
+        "width": 1240
+      },
+      {
+        "height": 3361,
+        "media_key": "3_2090469864968441856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLXRDMaUAAqX3o.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2090469885449207808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLXSPfaAAAWePf.jpg",
+        "width": 1240
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2090469901408620544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLXTK8bUAAfcei.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090618027192815616",
+            "3_2090618097560666112"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2090618275407577553",
+        "created_at": "2026-08-21T01:53:33.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090618275407577553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4zPWDlIvK",
+              "end": 53,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090618275407577553/photo/1",
+              "media_key": "3_2090618027192815616",
+              "start": 30,
+              "url": "https://t.co/K4zPWDlIvK"
+            },
+            {
+              "display_url": "pic.x.com/K4zPWDlIvK",
+              "end": 53,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090618275407577553/photo/1",
+              "media_key": "3_2090618097560666112",
+              "start": 30,
+              "url": "https://t.co/K4zPWDlIvK"
+            },
+            {
+              "display_url": "x.com/PriseTwinkle/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/PriseTwinkle/status/2090469915702788225",
+              "start": 54,
+              "url": "https://t.co/YEnA97YHI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090618275407577553",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090618027192815616"
+          },
+          {
+            "media_key": "3_2090618097560666112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090469915702788225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我🌿了，阿拉丁居然给我打电话，马上挂了，事情不会败露了吧😟 https://t.co/K4zPWDlIvK https://t.co/YEnA97YHI7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090469864968441856",
+            "3_2090469885449207808",
+            "3_2090469901408620544"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090469915702788225",
+        "created_at": "2026-08-20T16:04:01.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090469915702788225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1977200375766958082",
+              "start": 10,
+              "username": "yvanyvandecw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9ZzGjxRZN",
+              "end": 169,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090469915702788225/photo/1",
+              "media_key": "3_2090469864968441856",
+              "start": 146,
+              "url": "https://t.co/g9ZzGjxRZN"
+            },
+            {
+              "display_url": "pic.x.com/g9ZzGjxRZN",
+              "end": 169,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090469915702788225/photo/1",
+              "media_key": "3_2090469885449207808",
+              "start": 146,
+              "url": "https://t.co/g9ZzGjxRZN"
+            },
+            {
+              "display_url": "pic.x.com/g9ZzGjxRZN",
+              "end": 169,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2090469915702788225/photo/1",
+              "media_key": "3_2090469901408620544",
+              "start": 146,
+              "url": "https://t.co/g9ZzGjxRZN"
+            },
+            {
+              "display_url": "x.com/Mwdxj29477/sta…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/Mwdxj29477/status/2090423725824868374",
+              "start": 170,
+              "url": "https://t.co/CBaJpPPAe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090469915702788225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090469864968441856"
+          },
+          {
+            "media_key": "3_2090469885449207808"
+          },
+          {
+            "media_key": "3_2090469901408620544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 23,
+                "id": "1977200375766958082",
+                "start": 10,
+                "username": "yvanyvandecw"
+              },
+              {
+                "end": 224,
+                "id": "1977200375766958082",
+                "start": 211,
+                "username": "yvanyvandecw"
+              }
+            ]
+          },
+          "text": "我方强烈谴责抗议沐媛@yvanyvandecw，间接售卖亚硝酸盐，利用平台规定不完善绕过监管购买危害剧毒化学制品亚硝酸盐， 神化自杀和自残，导致 4～5 人已购买。事实上，如果对方只是暂时情绪崩溃，而在此时有扇风点火，这可能让无辜的生命为沐媛陪葬，这种行为是绝对不正确且感到惭愧的偶发事件。\n被指出后，拒不认错，以“只不过是她们发现了”，“我只是卖了一个账号”“她们咋样管我屁事” 推脱责任，藐视生命尊严。\n我方希望涉事者@yvanyvandecw删除关于此内容并且删除关于此的一切内容。\n目前我以依法举报此网站售卖危险化学制品"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3931,
+          "like_count": 34,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090423725824868374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我方强烈谴责抗议沐媛@yvanyvandecw，间接售卖亚硝酸盐，利用平台规定不完善绕过监管购买危害剧毒化学制品亚硝酸盐， 神化自杀和自残，导致 4～5 人已购买。事实上，如果对方只是暂时情绪崩溃，而在此时有扇风点火，这可能让无辜的生命为沐媛陪葬，这种行为是绝对不正确且感到惭愧的偶发事件。 https://t.co/g9ZzGjxRZN https://t.co/CBaJpPPAe0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2090618275407577553",
+        "name": "芸光酱 🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8636,
+          "following_count": 73,
+          "like_count": 334,
+          "listed_count": 160,
+          "media_count": 76,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

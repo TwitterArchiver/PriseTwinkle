@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2092988388811194738",
+    "created_at": "2026-08-28T12:07:50.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093309581606916308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "86813089",
+          "start": 0,
+          "username": "GiulioBrenelli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093309581606916308",
+    "in_reply_to_user_id": "86813089",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092988388811194738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GiulioBrenelli xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_2092988362433142784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvJ05XaoAALmNl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2092988388811194738",
+        "created_at": "2026-08-28T12:07:50.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093309581606916308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "86813089",
+              "start": 0,
+              "username": "GiulioBrenelli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093309581606916308",
+        "in_reply_to_user_id": "86813089",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092988388811194738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GiulioBrenelli xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092988362433142784"
+          ]
+        },
+        "author_id": "86813089",
+        "conversation_id": "2092988388811194738",
+        "created_at": "2026-08-27T14:51:32.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092988388811194738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "药娘"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jy76DU9imE",
+              "end": 55,
+              "expanded_url": "https://x.com/GiulioBrenelli/status/2092988388811194738/photo/1",
+              "media_key": "3_2092988362433142784",
+              "start": 32,
+              "url": "https://t.co/jy76DU9imE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092988388811194738",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092988362433142784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15530,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在想要不要停止用糖呢，毕竟现在的胸我很满意啊 #药娘 #mtf https://t.co/jy76DU9imE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2093309581606916308",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8692,
+          "following_count": 75,
+          "like_count": 392,
+          "listed_count": 160,
+          "media_count": 91,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-01T22:04:42.000Z",
+        "description": "我很敏感且有神经病，请你们不要惹我",
+        "id": "86813089",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093291737485848874",
+        "name": "柚子喵🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86813089/1787134666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090020341393600513/U7XVc3Fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 19,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 6894
+        },
+        "url": "",
+        "username": "GiulioBrenelli",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

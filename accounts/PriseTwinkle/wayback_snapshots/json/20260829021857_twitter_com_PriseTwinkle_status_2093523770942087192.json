@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2092774985685446749",
+    "created_at": "2026-08-29T02:18:57.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T03:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093523770942087192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049231640485040128",
+          "start": 0,
+          "username": "ReverieNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093523770942087192",
+    "in_reply_to_user_id": "2049231640485040128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093491937303228498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReverieNya 😭没事就好😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2092774985685446749",
+        "created_at": "2026-08-29T02:18:57.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093523770942087192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049231640485040128",
+              "start": 0,
+              "username": "ReverieNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093523770942087192",
+        "in_reply_to_user_id": "2049231640485040128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093491937303228498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReverieNya 😭没事就好😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049231640485040128",
+        "conversation_id": "2092774985685446749",
+        "created_at": "2026-08-29T00:12:27.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093491937303228498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "359348018",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093491937303228498",
+        "in_reply_to_user_id": "359348018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092774985685446749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 竟然有人管我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 兼职Unk | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@Mwdxj29477 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mwdxj29477"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江",
+        "most_recent_tweet_id": "2093523770942087192",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089346793582804993/ZeV0PbEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8694,
+          "following_count": 76,
+          "like_count": 396,
+          "listed_count": 160,
+          "media_count": 91,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T20:58:03.000Z",
+        "description": "🍥| 喵喵喵泥们好~ | MTF | 💞永远的爱人：@qwer785rs | 🎂生产日期：10/3/5 | 吃🍬时间：26/2/13 | 💥炸柜：26.3.2 |同类随缘互fo喵~ | 可以面基哦，常驻江浙沪 |💵赞赏喵：https://t.co/XFH2MlruNB |🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "qwer785rs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "donatr.ee/raindream",
+                "end": 134,
+                "expanded_url": "http://donatr.ee/raindream",
+                "start": 111,
+                "url": "https://t.co/XFH2MlruNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "i.raindream.top",
+                "end": 23,
+                "expanded_url": "http://i.raindream.top",
+                "start": 0,
+                "url": "https://t.co/FM2BFrNNuR"
+              }
+            ]
+          }
+        },
+        "id": "2049231640485040128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093505027193405609",
+        "name": "雨梦🍥🏳️‍⚧️二代目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049231640485040128/1777410567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086900206327779328/ArPoLC0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 69,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/FM2BFrNNuR",
+        "username": "ReverieNya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
