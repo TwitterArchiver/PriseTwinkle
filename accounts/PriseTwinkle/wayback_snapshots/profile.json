@@ -1,8 +1,8 @@
 {
-  "name": "PriseTwinkle 芸光",
+  "name": "芸yyyyy光酱 🍥",
   "username": "@PriseTwinkle",
-  "bio": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小?  |无证小药娘 | 🍥2026.4.7 |从小想做个女孩子 | 已炸柜 | 继续深柜ing |喜欢折腾电子设备 |分享Hrt日常 | 💊&🔪 |喜欢我的话点个关注吧🥺 求求你了~ |@yg_xyn | http://NGL.Link/prisetwinkle",
-  "location": "湖北潜江",
+  "bio": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@MtxUnk| http://NGL.Link/prisetwinkle",
+  "location": "湖北潜江😨",
   "link": "http://telegram.me/PriseTwinkle",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
@@ -10,20 +10,25 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 126,
-        "start": 119,
-        "username": "yg_xyn"
+        "end": 117,
+        "start": 109,
+        "username": "TEL_xyn"
+      },
+      {
+        "end": 129,
+        "start": 122,
+        "username": "MtxUnk"
       }
     ],
     "urls": [
       {
         "display_url": "NGL.Link/prisetwinkle",
-        "end": 152,
+        "end": 153,
         "expanded_url": "http://NGL.Link/prisetwinkle",
-        "start": 129,
-        "url": "https://t.co/yw95e9HjhX"
+        "start": 131,
+        "url": "http://t.co/yw95e9HjhX"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg"
 }
