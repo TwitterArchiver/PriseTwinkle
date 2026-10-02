@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2099735319667167613",
+    "created_at": "2026-09-15T05:41:26.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099735319667167613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Irosasmeow/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Irosasmeow/status/2099720341396619287",
+          "start": 41,
+          "url": "https://t.co/5EH0ofg3wC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099735319667167613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099720341396619287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好诶，我是女孩子🥰我是女孩子，好诶🥰好开心喵🥰我自己是女孩子，好诶，好喜欢自己喵 https://t.co/5EH0ofg3wC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2099735319667167613",
+        "created_at": "2026-09-15T05:41:26.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099735319667167613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosasmeow/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Irosasmeow/status/2099720341396619287",
+              "start": 41,
+              "url": "https://t.co/5EH0ofg3wC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099735319667167613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099720341396619287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好诶，我是女孩子🥰我是女孩子，好诶🥰好开心喵🥰我自己是女孩子，好诶，好喜欢自己喵 https://t.co/5EH0ofg3wC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090322811479027712",
+        "conversation_id": "2099720341396619287",
+        "created_at": "2026-09-15T04:41:54.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099720341396619287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099720341396619287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "好诶，我是女孩子🥰我是女孩子，好诶🥰好开心喵🥰我自己是女孩子，好诶，好喜欢自己喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@MtxUnk| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "MtxUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2099735319667167613",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9174,
+          "following_count": 96,
+          "like_count": 563,
+          "listed_count": 160,
+          "media_count": 116,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:20:51.000Z",
+        "description": "老婆@Irosas_sub\n最好的闺蜜@Irosasmjau\n11 MtF🏳️‍⚧️/ GAHT 30.04.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Irosas_sub"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Irosasmjau"
+              }
+            ]
+          }
+        },
+        "id": "2090322811479027712",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2099720341396619287",
+        "name": "Irosas 4.0🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2094330390161105246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090322811479027712/1788028974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093331604202762240/X-BCTe2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 204,
+          "like_count": 824,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "Irosasmeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

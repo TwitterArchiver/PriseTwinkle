@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2103337356988391780",
+    "created_at": "2026-09-25T23:38:05.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T00:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103630149157843349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049231640485040128",
+          "start": 0,
+          "username": "ReverieNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103630149157843349",
+    "in_reply_to_user_id": "2049231640485040128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103624213814976929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReverieNya 是的✔️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2103624203333464064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGTEUSa8AAF90x.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2103337356988391780",
+        "created_at": "2026-09-25T23:38:05.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103630149157843349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049231640485040128",
+              "start": 0,
+              "username": "ReverieNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103630149157843349",
+        "in_reply_to_user_id": "2049231640485040128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103624213814976929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReverieNya 是的✔️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103624203333464064"
+          ]
+        },
+        "author_id": "2049231640485040128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103337356988391780",
+        "created_at": "2026-09-25T23:14:30.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103624213814976929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "359348018",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oCvosicNB",
+              "end": 68,
+              "expanded_url": "https://x.com/ReverieNya/status/2103624213814976929/photo/1",
+              "media_key": "3_2103624203333464064",
+              "start": 45,
+              "url": "https://t.co/4oCvosicNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103624213814976929",
+        "in_reply_to_user_id": "359348018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103624203333464064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103337356988391780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 旁边那个角色怎么和窝生成的一样泥也是ChatGPT生成的嘛喵 https://t.co/4oCvosicNB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@UnkXyn| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2103630149157843349",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9265,
+          "following_count": 95,
+          "like_count": 606,
+          "listed_count": 160,
+          "media_count": 128,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T20:58:03.000Z",
+        "description": "🍥| 喵喵喵泥们好~ | MtF | 💞永远的爱人：@qwer785rs | 🥰好姐姐：@KanoYumoe |🎂生产日期：10/3/5 | 🍥HRT时间：26/2/13 | 炸柜：26/3/2 |同类随缘互fo喵 | 📍常驻江苏 |💵赞赏喵：https://t.co/XFH2Mls2D9 |🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "qwer785rs"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "KanoYumoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "donatr.ee/raindream",
+                "end": 145,
+                "expanded_url": "http://donatr.ee/raindream",
+                "start": 122,
+                "url": "https://t.co/XFH2Mls2D9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "raindream.top",
+                "end": 23,
+                "expanded_url": "http://raindream.top",
+                "start": 0,
+                "url": "https://t.co/Vo6NxOoXPK"
+              }
+            ]
+          }
+        },
+        "id": "2049231640485040128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103626197104279988",
+        "name": "雨梦🍥🏳️‍⚧️二代目",
+        "pinned_tweet_id": "2102344056005362074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049231640485040128/1777410567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086900206327779328/ArPoLC0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 89,
+          "like_count": 790,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/Vo6NxOoXPK",
+        "username": "ReverieNya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

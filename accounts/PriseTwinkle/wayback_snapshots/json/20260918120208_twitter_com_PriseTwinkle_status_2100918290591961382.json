@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100918279086956545"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2100918290591961382",
+    "created_at": "2026-09-18T12:02:08.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100918290591961382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSbdHBJ29u",
+          "end": 34,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2100918290591961382/photo/1",
+          "media_key": "3_2100918279086956545",
+          "start": 11,
+          "url": "https://t.co/sSbdHBJ29u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100918290591961382",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100918279086956545"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤩🤩🤩这下不得不学了 https://t.co/sSbdHBJ29u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2100918279086956545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf2Cy8aYAEo9eT.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100918279086956545"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2100918290591961382",
+        "created_at": "2026-09-18T12:02:08.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100918290591961382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSbdHBJ29u",
+              "end": 34,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2100918290591961382/photo/1",
+              "media_key": "3_2100918279086956545",
+              "start": 11,
+              "url": "https://t.co/sSbdHBJ29u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100918290591961382",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100918279086956545"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤩🤩🤩这下不得不学了 https://t.co/sSbdHBJ29u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@UnkXyn| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2100918290591961382",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9194,
+          "following_count": 97,
+          "like_count": 572,
+          "listed_count": 160,
+          "media_count": 121,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101619828360650752"
+      ],
+      "media_source_tweet_id": [
+        "2101620194070479160"
+      ]
+    },
+    "author_id": "359348018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101621309843066895",
+    "created_at": "2026-09-20T10:35:41.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101621309843066895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047978830141222912",
+          "start": 3,
+          "username": "TEL_xyn"
+        },
+        {
+          "end": 30,
+          "id": "359348018",
+          "start": 17,
+          "username": "PriseTwinkle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d7r2olPFox",
+          "end": 60,
+          "expanded_url": "https://x.com/TEL_xyn/status/2101620194070479160/photo/1",
+          "media_key": "3_2101619828360650752",
+          "start": 37,
+          "url": "https://t.co/d7r2olPFox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101621309843066895",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101619828360650752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101620194070479160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TEL_xyn: 被芸光 @PriseTwinkle 电了🥵🥵🥵 https://t.co/d7r2olPFox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2101619828360650752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSp0GVpaoAA5XQB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101619828360650752"
+          ],
+          "media_source_tweet_id": [
+            "2101620194070479160"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101621309843066895",
+        "created_at": "2026-09-20T10:35:41.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101621309843066895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047978830141222912",
+              "start": 3,
+              "username": "TEL_xyn"
+            },
+            {
+              "end": 30,
+              "id": "359348018",
+              "start": 17,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7r2olPFox",
+              "end": 60,
+              "expanded_url": "https://x.com/TEL_xyn/status/2101620194070479160/photo/1",
+              "media_key": "3_2101619828360650752",
+              "start": 37,
+              "url": "https://t.co/d7r2olPFox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101621309843066895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101619828360650752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101620194070479160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TEL_xyn: 被芸光 @PriseTwinkle 电了🥵🥵🥵 https://t.co/d7r2olPFox"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101619828360650752"
+          ]
+        },
+        "author_id": "2047978830141222912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101620194070479160",
+        "created_at": "2026-09-20T10:31:15.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101620194070479160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "359348018",
+              "start": 4,
+              "username": "PriseTwinkle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7r2olPFox",
+              "end": 47,
+              "expanded_url": "https://x.com/TEL_xyn/status/2101620194070479160/photo/1",
+              "media_key": "3_2101619828360650752",
+              "start": 24,
+              "url": "https://t.co/d7r2olPFox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101620194070479160",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101619828360650752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被芸光 @PriseTwinkle 电了🥵🥵🥵 https://t.co/d7r2olPFox"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@UnkXyn| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2101621309843066895",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9214,
+          "following_count": 96,
+          "like_count": 584,
+          "listed_count": 160,
+          "media_count": 123,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T09:59:44.000Z",
+        "description": "前世@Taozhi_TEL |\nMTF🏳️‍⚧️｜出厂日期2013.1.2｜13岁｜无证含糖🍥｜HRT：2026.4.1｜深柜｜割手不od｜坐标河北｜玩Minecraft 地平线6｜@PriseTwinkle💞｜欢迎关注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Taozhi_TEL"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "PriseTwinkle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozhi_tel",
+                "end": 23,
+                "expanded_url": "https://t.me/taozhi_tel",
+                "start": 0,
+                "url": "https://t.co/XQlxqx1CMw"
+              }
+            ]
+          }
+        },
+        "id": "2047978830141222912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101620194070479160",
+        "name": "桃芷TEL^🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675800682790912/j7vl0vDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 12,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/XQlxqx1CMw",
+        "username": "TEL_xyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

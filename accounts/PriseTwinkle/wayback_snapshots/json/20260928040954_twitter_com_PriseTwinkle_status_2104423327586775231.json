@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2104423327586775231",
+    "created_at": "2026-09-28T04:09:54.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T05:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104423327586775231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047978830141222912",
+          "start": 3,
+          "username": "TEL_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104423327586775231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104226642516459922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TEL_xyn: 悲报：\n\n炸柜了😭😭😭\n\n今天下午刚到家就发现门口有一个垃圾袋，里面是补和色🤯我回房间发现🍥都没了😨是我木琴收拾我房间的时候翻到的😭\n现在浮木还都没问我🍥的事\n怎么办啊……😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2104423327586775231",
+        "created_at": "2026-09-28T04:09:54.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104423327586775231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047978830141222912",
+              "start": 3,
+              "username": "TEL_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104423327586775231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104226642516459922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TEL_xyn: 悲报：\n\n炸柜了😭😭😭\n\n今天下午刚到家就发现门口有一个垃圾袋，里面是补和色🤯我回房间发现🍥都没了😨是我木琴收拾我房间的时候翻到的😭\n现在浮木还都没问我🍥的事\n怎么办啊……😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047978830141222912",
+        "conversation_id": "2104226642516459922",
+        "created_at": "2026-09-27T15:08:20.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104226642516459922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104226642516459922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲报：\n\n炸柜了😭😭😭\n\n今天下午刚到家就发现门口有一个垃圾袋，里面是补和色🤯我回房间发现🍥都没了😨是我木琴收拾我房间的时候翻到的😭\n现在浮木还都没问我🍥的事\n怎么办啊……😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@UnkXyn| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2104423327586775231",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9288,
+          "following_count": 96,
+          "like_count": 614,
+          "listed_count": 160,
+          "media_count": 129,
+          "tweet_count": 1931
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T09:59:44.000Z",
+        "description": "MTF🏳️‍⚧️｜出厂2013.1.2｜13岁｜INFP｜无证含糖🍥｜HRT：2026.4.1｜炸柜2026.9.27｜家长不管党？｜不割手不od｜中度抑郁 中度焦虑｜Minecraft｜@PriseTwinkle💞｜https://t.co/p5fdHk6ToS｜欢迎关注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tel_xyn",
+                "end": 132,
+                "expanded_url": "http://ngl.link/tel_xyn",
+                "start": 109,
+                "url": "https://t.co/p5fdHk6ToS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozhi_tel",
+                "end": 23,
+                "expanded_url": "https://t.me/taozhi_tel",
+                "start": 0,
+                "url": "https://t.co/XQlxqx1CMw"
+              }
+            ]
+          }
+        },
+        "id": "2047978830141222912",
+        "is_identity_verified": false,
+        "location": "河北 石家庄",
+        "most_recent_tweet_id": "2104226642516459922",
+        "name": "桃芷TEL^🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675800682790912/j7vl0vDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 14,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/XQlxqx1CMw",
+        "username": "TEL_xyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

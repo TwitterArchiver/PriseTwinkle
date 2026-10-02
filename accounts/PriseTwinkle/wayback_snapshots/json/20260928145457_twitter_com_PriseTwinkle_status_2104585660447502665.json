@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2104585660447502665",
+    "created_at": "2026-09-28T14:54:57.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104585660447502665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2095474755830980608",
+          "start": 3,
+          "username": "TaoZhiMTF"
+        },
+        {
+          "end": 68,
+          "id": "2047978830141222912",
+          "start": 60,
+          "username": "TEL_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104585660447502665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104541513737007406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TaoZhiMTF: 大家好  我是桃芷🍥\n我又被邪恶msk冻结了😭\n所以我夺舍了unk的账号😸\n三代目了 前世@TEL_xyn"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [TEL_xyn].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "TEL_xyn",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "TEL_xyn"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2104585660447502665",
+        "created_at": "2026-09-28T14:54:57.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104585660447502665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2095474755830980608",
+              "start": 3,
+              "username": "TaoZhiMTF"
+            },
+            {
+              "end": 68,
+              "id": "2047978830141222912",
+              "start": 60,
+              "username": "TEL_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104585660447502665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104541513737007406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TaoZhiMTF: 大家好  我是桃芷🍥\n我又被邪恶msk冻结了😭\n所以我夺舍了unk的账号😸\n三代目了 前世@TEL_xyn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095474755830980608",
+        "conversation_id": "2104541513737007406",
+        "created_at": "2026-09-28T11:59:32.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104541513737007406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "2047978830141222912",
+              "start": 45,
+              "username": "TEL_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104541513737007406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好  我是桃芷🍥\n我又被邪恶msk冻结了😭\n所以我夺舍了unk的账号😸\n三代目了 前世@TEL_xyn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@taozhimtf😘|兼@UnkXyn| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "taozhimtf"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2104585660447502665",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9285,
+          "following_count": 94,
+          "like_count": 618,
+          "listed_count": 159,
+          "media_count": 131,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T11:33:17.000Z",
+        "description": "MTF🏳️‍⚧️｜出厂2013.1.2｜13岁｜INFP｜无证含糖🍥｜HRT：2026.4.1｜炸柜2026.9.27｜家长不管党？｜不割手不od｜中度抑郁 中度焦虑｜Minecraft｜@PriseTwinkle💞｜https://t.co/ekldJG7XLg｜欢迎关注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tel_xyn",
+                "end": 132,
+                "expanded_url": "http://ngl.link/tel_xyn",
+                "start": 109,
+                "url": "https://t.co/ekldJG7XLg"
+              }
+            ]
+          }
+        },
+        "id": "2095474755830980608",
+        "is_identity_verified": false,
+        "location": "河北 石家庄",
+        "most_recent_tweet_id": "2104541513737007406",
+        "name": "桃芷TET^🍥(3rd)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095474755830980608/1788443851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104540426602790912/INmM1WY7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 66,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "TaoZhiMTF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

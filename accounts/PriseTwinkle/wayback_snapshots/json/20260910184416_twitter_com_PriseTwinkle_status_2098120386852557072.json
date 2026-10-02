@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "359348018",
+    "conversation_id": "2097959199636684859",
+    "created_at": "2026-09-10T18:44:16.000Z",
+    "display_text_range": [
+      17,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098120386852557072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934022740807393280",
+          "start": 0,
+          "username": "HerrDrachenmann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098120386852557072",
+    "in_reply_to_user_id": "1934022740807393280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098073717834138057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HerrDrachenmann 这并不是我这制作的，而且我也是Mtf😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "359348018",
+        "conversation_id": "2097959199636684859",
+        "created_at": "2026-09-10T18:44:16.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098120386852557072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934022740807393280",
+              "start": 0,
+              "username": "HerrDrachenmann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098120386852557072",
+        "in_reply_to_user_id": "1934022740807393280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098073717834138057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HerrDrachenmann 这并不是我这制作的，而且我也是Mtf😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934022740807393280",
+        "conversation_id": "2097959199636684859",
+        "created_at": "2026-09-10T15:38:49.000Z",
+        "display_text_range": [
+          14,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098073717834138057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "359348018",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098073717834138057",
+        "in_reply_to_user_id": "359348018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097959199636684859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle All you fucks are capable of \"drawing\" falls onto two types of stuff: fetish, or violence/suicide\nIt's so pathetic, so corny"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@MtxUnk| http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "MtxUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 136,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2098120386852557072",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8958,
+          "following_count": 94,
+          "like_count": 539,
+          "listed_count": 160,
+          "media_count": 112,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T22:59:25.000Z",
+        "description": "Don't fucking DM me; old-man pngtuber (soon vtuber).\nYT channel: https://t.co/b3gUUY0mGD\nDiscord server: https://t.co/IwD7hiNBnX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@herrdrachenma…",
+                "end": 88,
+                "expanded_url": "https://www.youtube.com/@herrdrachenmann",
+                "start": 65,
+                "url": "https://t.co/b3gUUY0mGD"
+              },
+              {
+                "display_url": "discord.gg/SDzY2hEfMW",
+                "end": 128,
+                "expanded_url": "https://discord.gg/SDzY2hEfMW",
+                "start": 105,
+                "url": "https://t.co/IwD7hiNBnX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@herrdrachenma…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@herrdrachenmann",
+                "start": 0,
+                "url": "https://t.co/b3gUUY0mGD"
+              }
+            ]
+          }
+        },
+        "id": "1934022740807393280",
+        "is_identity_verified": false,
+        "location": "Nonya",
+        "most_recent_tweet_id": "2098118123715014827",
+        "name": "Herr Drachenmann",
+        "pinned_tweet_id": "2008304678732206109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934022740807393280/1785617841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936221437288701953/UzjbEo7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 652,
+          "like_count": 10794,
+          "listed_count": 0,
+          "media_count": 1514,
+          "tweet_count": 14361
+        },
+        "url": "https://t.co/b3gUUY0mGD",
+        "username": "HerrDrachenmann",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

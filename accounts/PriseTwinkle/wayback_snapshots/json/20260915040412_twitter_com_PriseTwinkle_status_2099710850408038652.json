@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099710843525185536"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2099710850408038652",
+    "created_at": "2026-09-15T04:04:12.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099710850408038652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z4GhDH0Hl6",
+          "end": 132,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2099710850408038652/photo/1",
+          "media_key": "3_2099710843525185536",
+          "start": 109,
+          "url": "https://t.co/z4GhDH0Hl6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099710850408038652",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099710843525185536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "LGBT，不是疾病\n\n- 医学上不被视为疾病\n- 是人类多样性的自然组成部分\n- 疾病需要存在缺陷\n- 强迫性的不是身份，而是歧视\n- 科学共识非常明确\n- 在整个人类历史中一直存在\n\nLGBT的存在无法被行动所动摇 https://t.co/z4GhDH0Hl6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2099710843525185536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOr4y9awAA4O5R.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099710843525185536"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2099710850408038652",
+        "created_at": "2026-09-15T04:04:12.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099710850408038652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4GhDH0Hl6",
+              "end": 132,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2099710850408038652/photo/1",
+              "media_key": "3_2099710843525185536",
+              "start": 109,
+              "url": "https://t.co/z4GhDH0Hl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099710850408038652",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099710843525185536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LGBT，不是疾病\n\n- 医学上不被视为疾病\n- 是人类多样性的自然组成部分\n- 疾病需要存在缺陷\n- 强迫性的不是身份，而是歧视\n- 科学共识非常明确\n- 在整个人类历史中一直存在\n\nLGBT的存在无法被行动所动摇 https://t.co/z4GhDH0Hl6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@MtxUnk| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 114,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "MtxUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2099710850408038652",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9173,
+          "following_count": 96,
+          "like_count": 562,
+          "listed_count": 160,
+          "media_count": 117,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

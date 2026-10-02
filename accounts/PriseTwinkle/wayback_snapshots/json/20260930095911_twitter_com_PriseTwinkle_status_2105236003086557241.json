@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105189554538139648",
+        "3_2105189554781315072"
+      ],
+      "media_source_tweet_id": [
+        "2105189975654637940",
+        "2105189975654637940"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2105236003086557241",
+    "created_at": "2026-09-30T09:59:11.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105236003086557241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047978830141222912",
+          "start": 3,
+          "username": "TEL_xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYXfL8zIA4",
+          "end": 67,
+          "expanded_url": "https://x.com/TEL_xyn/status/2105189975654637940/photo/1",
+          "media_key": "3_2105189554538139648",
+          "start": 44,
+          "url": "https://t.co/fYXfL8zIA4"
+        },
+        {
+          "display_url": "pic.x.com/fYXfL8zIA4",
+          "end": 67,
+          "expanded_url": "https://x.com/TEL_xyn/status/2105189975654637940/photo/1",
+          "media_key": "3_2105189554781315072",
+          "start": 44,
+          "url": "https://t.co/fYXfL8zIA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105236003086557241",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105189554538139648"
+      },
+      {
+        "media_key": "3_2105189554781315072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105189975654637940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TEL_xyn: 第一次打亮丙瑞林，扎了5次都推不动😭😭😭还很疼😭药都浪费了🥺 https://t.co/fYXfL8zIA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105189554538139648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcivv8b0AAfw3D.jpg",
+        "width": 1230
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2105189554781315072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcivw2aYAAw9wK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105189554538139648",
+            "3_2105189554781315072"
+          ],
+          "media_source_tweet_id": [
+            "2105189975654637940",
+            "2105189975654637940"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2105236003086557241",
+        "created_at": "2026-09-30T09:59:11.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105236003086557241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047978830141222912",
+              "start": 3,
+              "username": "TEL_xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYXfL8zIA4",
+              "end": 67,
+              "expanded_url": "https://x.com/TEL_xyn/status/2105189975654637940/photo/1",
+              "media_key": "3_2105189554538139648",
+              "start": 44,
+              "url": "https://t.co/fYXfL8zIA4"
+            },
+            {
+              "display_url": "pic.x.com/fYXfL8zIA4",
+              "end": 67,
+              "expanded_url": "https://x.com/TEL_xyn/status/2105189975654637940/photo/1",
+              "media_key": "3_2105189554781315072",
+              "start": 44,
+              "url": "https://t.co/fYXfL8zIA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105236003086557241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105189554538139648"
+          },
+          {
+            "media_key": "3_2105189554781315072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105189975654637940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TEL_xyn: 第一次打亮丙瑞林，扎了5次都推不动😭😭😭还很疼😭药都浪费了🥺 https://t.co/fYXfL8zIA4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105189554538139648",
+            "3_2105189554781315072"
+          ]
+        },
+        "author_id": "2047978830141222912",
+        "conversation_id": "2105189975654637940",
+        "created_at": "2026-09-30T06:56:17.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105189975654637940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYXfL8zIA4",
+              "end": 54,
+              "expanded_url": "https://x.com/TEL_xyn/status/2105189975654637940/photo/1",
+              "media_key": "3_2105189554538139648",
+              "start": 31,
+              "url": "https://t.co/fYXfL8zIA4"
+            },
+            {
+              "display_url": "pic.x.com/fYXfL8zIA4",
+              "end": 54,
+              "expanded_url": "https://x.com/TEL_xyn/status/2105189975654637940/photo/1",
+              "media_key": "3_2105189554781315072",
+              "start": 31,
+              "url": "https://t.co/fYXfL8zIA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105189975654637940",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105189554538139648"
+          },
+          {
+            "media_key": "3_2105189554781315072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次打亮丙瑞林，扎了5次都推不动😭😭😭还很疼😭药都浪费了🥺 https://t.co/fYXfL8zIA4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@taozhimtf😘|兼@UnkXyn| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "taozhimtf"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2105236003086557241",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9295,
+          "following_count": 96,
+          "like_count": 632,
+          "listed_count": 159,
+          "media_count": 133,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T09:59:44.000Z",
+        "description": "MTF🏳️‍⚧️｜出厂2013.1.2｜13岁｜INFP｜无证含糖🍥｜HRT：2026.4.1｜炸柜2026.9.27｜家长不管党？｜不割手不od｜中度抑郁 中度焦虑｜Minecraft｜@PriseTwinkle💞｜https://t.co/p5fdHk6ToS｜欢迎关注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tel_xyn",
+                "end": 132,
+                "expanded_url": "http://ngl.link/tel_xyn",
+                "start": 109,
+                "url": "https://t.co/p5fdHk6ToS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozhi_tel",
+                "end": 23,
+                "expanded_url": "https://t.me/taozhi_tel",
+                "start": 0,
+                "url": "https://t.co/XQlxqx1CMw"
+              }
+            ]
+          }
+        },
+        "id": "2047978830141222912",
+        "is_identity_verified": false,
+        "location": "河北 石家庄",
+        "most_recent_tweet_id": "2105189975654637940",
+        "name": "桃芷TEL^🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675800682790912/j7vl0vDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 14,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/XQlxqx1CMw",
+        "username": "TEL_xyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
