@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2111285221245276160",
+        "3_2111285249674194944"
+      ]
+    },
+    "author_id": "359348018",
+    "conversation_id": "2111285413705089142",
+    "created_at": "2026-10-17T02:37:23.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-17T03:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2111285413705089142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LW5yB3LB7V",
+          "end": 147,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2111285413705089142/photo/1",
+          "media_key": "3_2111285221245276160",
+          "start": 124,
+          "url": "https://t.co/LW5yB3LB7V"
+        },
+        {
+          "display_url": "pic.x.com/LW5yB3LB7V",
+          "end": 147,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2111285413705089142/photo/1",
+          "media_key": "3_2111285249674194944",
+          "start": 124,
+          "url": "https://t.co/LW5yB3LB7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111285413705089142",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2111285221245276160"
+      },
+      {
+        "media_key": "3_2111285249674194944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "😭😭😭没想到李赋太屌了，问了几个问题就没了，还说我为什么不留长发，不穿女装来😡我pass的话不就穿了😡还说我13性别焦虑只是缓解压力🤨虽然他友跨，但说13太小他不认同，要我等18🫤就随便说了说，也没开到小证😔还让我找她，可是这个人开不了证😢好烦🫤\n另外，这个人好像xyn🧐之前在诊室前还看了我一眼🧐"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭😭😭没想到李赋太屌了，问了几个问题就没了，还说我为什么不留长发，不穿女装来😡我pass的话不就穿了😡还说我13性别焦虑只是缓解压力🤨虽然他友跨，但说13太小他不认同，要我等18🫤就随便说了说，也没开到小证😔还让我找她，可是这个人开不了证😢好烦🫤 https://t.co/LW5yB3LB7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2111285221245276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUzKuP_bUAAVMy2.jpg",
+        "width": 2400
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2111285249674194944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUzKv55aMAAQIBi.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2111285221245276160",
+            "3_2111285249674194944"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2111285413705089142",
+        "created_at": "2026-10-17T02:37:23.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T03:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2111285413705089142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LW5yB3LB7V",
+              "end": 147,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2111285413705089142/photo/1",
+              "media_key": "3_2111285221245276160",
+              "start": 124,
+              "url": "https://t.co/LW5yB3LB7V"
+            },
+            {
+              "display_url": "pic.x.com/LW5yB3LB7V",
+              "end": 147,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2111285413705089142/photo/1",
+              "media_key": "3_2111285249674194944",
+              "start": 124,
+              "url": "https://t.co/LW5yB3LB7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111285413705089142",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2111285221245276160"
+          },
+          {
+            "media_key": "3_2111285249674194944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "😭😭😭没想到李赋太屌了，问了几个问题就没了，还说我为什么不留长发，不穿女装来😡我pass的话不就穿了😡还说我13性别焦虑只是缓解压力🤨虽然他友跨，但说13太小他不认同，要我等18🫤就随便说了说，也没开到小证😔还让我找她，可是这个人开不了证😢好烦🫤\n另外，这个人好像xyn🧐之前在诊室前还看了我一眼🧐"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭没想到李赋太屌了，问了几个问题就没了，还说我为什么不留长发，不穿女装来😡我pass的话不就穿了😡还说我13性别焦虑只是缓解压力🤨虽然他友跨，但说13太小他不认同，要我等18🫤就随便说了说，也没开到小证😔还让我找她，可是这个人开不了证😢好烦🫤 https://t.co/LW5yB3LB7V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 半家长党🫤\n|喜欢折腾电子设备| ❌ 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@taozhimtf😘|兼@UnkXyn| http://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "taozhimtf"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 158,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "http://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2111285413705089142",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9383,
+          "following_count": 95,
+          "like_count": 679,
+          "listed_count": 159,
+          "media_count": 143,
+          "tweet_count": 1965
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

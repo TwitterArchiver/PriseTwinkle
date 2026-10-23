@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106986111398789120"
+      ]
+    },
+    "author_id": "359348018",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2106986121758687393",
+    "created_at": "2026-10-05T05:53:31.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106986121758687393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cANEKY7dSt",
+          "end": 114,
+          "expanded_url": "https://x.com/PriseTwinkle/status/2106986121758687393/photo/1",
+          "media_key": "3_2106986111398789120",
+          "start": 91,
+          "url": "https://t.co/cANEKY7dSt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106986121758687393",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106986111398789120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难道还是要炸了吗😨昨天我妈想带我做激素检查，原来发现了我的女装和药😞今天我妈居然像没发现一样🧐没说，我准备这几天出🫤反正都知道了🫤我的pr也被丢了😭😭😭早知道暑假就高价卖给沐媛的😏 https://t.co/cANEKY7dSt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2414,
+        "media_key": "3_2106986111398789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2EtHybQAA0ubr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106986111398789120"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106986121758687393",
+        "created_at": "2026-10-05T05:53:31.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106986121758687393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cANEKY7dSt",
+              "end": 114,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2106986121758687393/photo/1",
+              "media_key": "3_2106986111398789120",
+              "start": 91,
+              "url": "https://t.co/cANEKY7dSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106986121758687393",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106986111398789120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道还是要炸了吗😨昨天我妈想带我做激素检查，原来发现了我的女装和药😞今天我妈居然像没发现一样🧐没说，我准备这几天出🫤反正都知道了🫤我的pr也被丢了😭😭😭早知道暑假就高价卖给沐媛的😏 https://t.co/cANEKY7dSt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7🏳️‍⚧️\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@taozhimtf😘|兼@UnkXyn| https://t.co/UJqkuwC32k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "taozhimtf"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yunguang2",
+                "end": 159,
+                "expanded_url": "http://ngl.link/yunguang2",
+                "start": 136,
+                "url": "https://t.co/UJqkuwC32k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2106986121758687393",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9310,
+          "following_count": 96,
+          "like_count": 650,
+          "listed_count": 159,
+          "media_count": 138,
+          "tweet_count": 1953
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
